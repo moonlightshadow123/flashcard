@@ -21,7 +21,7 @@ var start_from = 1;
 var num = 20;
 var vars;
 
-var host = "http://localhost:9000/"
+var host = "http://3.136.211.6:8080/"
 var flag_url = host + "img/";
 var tts_url = host + "tts";
 var lang = "ko";

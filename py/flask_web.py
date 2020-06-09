@@ -1,7 +1,7 @@
 from flask import Flask, jsonify, request, send_from_directory
 from tts import TTS
 
-webtts = TTS("../web/mp3/", "http://localhost:9000/mp3/")
+webtts = TTS("../web/mp3/", "http://3.136.211.6:8080/mp3/")
 app = Flask(__name__, static_url_path='', static_folder="../web")
 
 @app.route('/tts')
@@ -13,4 +13,4 @@ def tts():
 
 if __name__ == '__main__':
     app.debug = True
-    app.run(host='0.0.0.0', port=9000)
+    app.run(host='0.0.0.0', port=8080)
