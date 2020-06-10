@@ -53,7 +53,7 @@ function getUrlVars() {
     	file_name = vars["file"];
     }
     if("start" in vars){
-    	start_from = parseint(vars["start"]);
+    	start_from = parseInt(vars["start"]);
     }
     if("num" in vars){
     	num = parseInt(vars["num"]);
