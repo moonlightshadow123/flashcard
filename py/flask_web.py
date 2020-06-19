@@ -1,7 +1,10 @@
 from flask import Flask, jsonify, request, send_from_directory
 from tts import TTS
 
-webtts = TTS("../web/mp3/", "http://3.136.211.6:8080/mp3/")
+host = "http://3.136.211.6:8080/mp3/"
+#host = "http://localhost:8080/mp3/"
+
+webtts = TTS("../web/mp3/", host)
 app = Flask(__name__, static_url_path='', static_folder="../web")
 
 @app.route('/tts')

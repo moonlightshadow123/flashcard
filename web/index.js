@@ -6,8 +6,10 @@ var $input = $("#input");
 var $searchBtn = $("#searchBtn");
 var $randomBtn = $("#randomBtn");
 var $resetBtn = $("#resetBtn");
+var $voice = $(".voice");
 
 var $listContainer = $("#listContainer");
+var $detailContainer = $("#detailContainer");
 var $listDiv = $("#listDiv");
 var simpleBar;
 
@@ -22,9 +24,11 @@ var num = 20;
 var vars;
 
 var host = "http://3.136.211.6:8080/"
+//var host = "http://localhost:8080/"
 var flag_url = host + "img/";
 var tts_url = host + "tts";
 var lang = "ko";
+var rm_list = ["<b>", "</b>", "?"];
 
 var msry;
 var header;
@@ -64,8 +68,16 @@ function getUrlVars() {
     //return vars;
 }
 
+function rm_str(word){
+	rm_list.forEach(function(ele, idx){
+		word = word.replace(ele, "");
+	});
+	return word;
+}
+
 function tts(word){
-	var url = tts_url + "?lang=" + lang + "&word=" + word;
+	var url = tts_url + "?lang=" + lang + "&word=" +rm_str(word);
+	console.log(url);
 	$.getJSON(url, function(data){
 		url = data["url"];
 		var a = new Audio(url);
@@ -121,6 +133,9 @@ function genDetail(idx){
 			var $entry = $detail_temp.clone();
 			$entry.find(".key").html(header[h_idx] + ": ");
 			$entry.find(".value").html(item[h_idx]);
+			if(header[h_idx].includes("[voc]")){
+				$entry.find(".voice").css("display", "");
+			}
 			$detail.append($entry);
 		}
 	});	
@@ -165,6 +180,10 @@ function addListener(){
 	});
 	$listDiv.on("click", ".list_temp", function(){
 		genDetail($(this).attr("data-idx"));
+	});
+	$detailContainer.on("click", ".voice", function(){
+		var word = $(this).prev().text();
+		tts(word);
 	});
 }	
 
