@@ -49,14 +49,14 @@
 			border: 1px solid #a3a3a3;
 			padding: 4px;
 		}
-		.flagSpan{
+		#flag{
 			height: 20px;
 		}
 		.wordSpan{
 			font-size: 60px;
 		}
 		.voiceSpan{
-			font-size: 30px;
+			font-size: 20px;
 			border: 1px solid #a3a3a3;
 		}
 		input, select, button, input[type="submit"], input[type="reset"] {
@@ -68,7 +68,7 @@
 			outline: inherit;
 		}
 		@media (max-width:1200px) {
-			.flagSpan{
+			#flag{
 				height: 40px;
 			}
 			.wordSpan{
@@ -90,7 +90,7 @@
 		<div style="width: 100%; text-align: center;">
 		<div style="font-weight: 700; font-size: 60px;margin: 10px;">
 			<span id="word" class="wordSpan">Word</span>
-			<span class="voice voiceSpan" style="font-size: 30px"><i class="fa fa-volume-up"></i></span>
+			<span class="voice voiceSpan"><i class="fa fa-volume-up"></i></span>
 		</div>
 		<div id="detail" style="">
 			<div class="detail_temp">
@@ -121,7 +121,7 @@
 	</div>
 	<div id="searchContainer" class="footer v-center" style="height: 50px;background-color: #ffe3e3">
 		<div style="width: 100%;" class="search" style="text-align: center;display: flex;">
-			<span class="smallWin flagSpan" style="vertical-align: middle;text-align: center;display: inline-flex;"> <img id="flag" src="img/ko.png" ></span>
+			<span class="smallWin" style="vertical-align: middle;text-align: center;display: inline-flex;"> <img id="flag" src="img/ko.png" ></span>
 			<span class="smallWin" style="background-color: #ffffff"><input type="" name="" id="input"></span>
 			<span class="smallWin" id="searchBtn"><i class="fas fa-search"></i></span>
 			<span class="smallWin" id="randomBtn"><i class="fas fa-random"></i></span>
