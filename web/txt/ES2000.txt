@@ -1,0 +1,2568 @@
+Cantidad	数字	Cantidad
+uno	一	Cantidad
+dos	二	Cantidad
+tres	三	Cantidad
+cuatro	四	Cantidad
+cinco	五	Cantidad
+seis	六	Cantidad
+siete	七	Cantidad
+ocho	八	Cantidad
+nueve	九	Cantidad
+diez	十	Cantidad
+cien(ciento)	百	Cantidad
+mil	千	Cantidad
+diez mil	万	Cantidad
+cien millones	亿	Cantidad
+cero	零	Cantidad
+primero	第一	Cantidad
+segundo	第二	Cantidad
+tercero	第三	Cantidad
+cuarto	第四	Cantidad
+quinto	第五	Cantidad
+sexto	第六	Cantidad
+séptimo	第七	Cantidad
+octavo	第八	Cantidad
+noveno	第九	Cantidad
+décimo	第十	Cantidad
+orientación	方向	orientación
+dirección	方向	orientación
+orientación	方向	orientación
+lugar	位置	orientación
+sitio	位置	orientación
+este	东边	orientación
+oriente	东边	orientación
+oeste	西边	orientación
+sur	南边	orientación
+norte	北边	orientación
+izquierda	左	orientación
+derecha	右	orientación
+delante	前	orientación
+frente	前	orientación
+datrás	后	orientación
+arriba	上	orientación
+encima	上	orientación
+bajo	下	orientación
+dabajo	下	orientación
+dentro	里边	orientación
+afuera	外边	orientación
+exterior	外边	orientación
+medio	中间	orientación
+lado	旁边	orientación
+enfrente	对面	orientación
+diagral	斜对面	orientación
+allí	那里	orientación
+allá	那里	orientación
+dentro	里头	orientación
+noroeste	西北	orientación
+suroeste	西南	orientación
+brújula	指南针	orientación
+Tiempo	时间	Tiempo
+tiempo	时间	Tiempo
+madrugada	凌晨	Tiempo
+mañana	上午	Tiempo
+mediodía	中午	Tiempo
+tarde	下午	Tiempo
+de día	白天	Tiempo
+de mañana	一早	Tiempo
+medianoche	半夜	Tiempo
+en plena noche	深夜	Tiempo
+por la noche	晚上	Tiempo
+momento	时刻	Tiempo
+hora	时刻	Tiempo
+hora	小时	Tiempo
+cuarto	一刻	Tiempo
+hora	点	Tiempo
+minuto	分	Tiempo
+segundo	秒	Tiempo
+fecha	日期	Tiempo
+plazo	日期	Tiempo
+en aquellos años	当年	Tiempo
+en aquel tiempo	当年	Tiempo
+este año	今年	Tiempo
+el segundo día	第二天	Tiempo
+aquel día	那天	Tiempo
+primera estapa	早期	Tiempo
+tarde o temprano	早晚	Tiempo
+todos los días	每天	Tiempo
+pronto	不久	Tiempo
+dentro de poco	不久	Tiempo
+anteayer	前天	Tiempo
+ayer	昨天	Tiempo
+hoy	今天	Tiempo
+mañana	明天	Tiempo
+pasado mañana	后天	Tiempo
+semana	星期	Tiempo
+lunes	星期一	Tiempo
+martes	星期二	Tiempo
+miércoles	星期三	Tiempo
+jueves	星期四	Tiempo
+viernes	星期五	Tiempo
+sábado	星期六	Tiempo
+domingo	星期日	Tiempo
+antes	以前	Tiempo
+mes	月份	Tiempo
+a mediados de mes	月中	Tiempo
+finales de mes	月底	Tiempo
+años	年	Tiempo
+comienzo del año	年初	Tiempo
+fin del año	年底	Tiempo
+años pasado	去年	Tiempo
+fin de semana	周末	Tiempo
+en el pasado	过去	Tiempo
+futuro	将来	Tiempo
+porvenir	将来	Tiempo
+futuro	未来	Tiempo
+próximo	未来	Tiempo
+Estado	状态	Estado
+grande	大	Estado
+pequeño	小	Estado
+poco	小	Estado
+alto	高	Estado
+bajo	矮	Estado
+bajo	低	Estado
+largo	长	Estado
+corto	短	Estado
+grueso	粗	Estado
+delgado	细	Estado
+duro	硬	Estado
+blando	软	Estado
+grueso	厚	Estado
+delgado	薄	Estado
+fino	薄	Estado
+profundo	深	Estado
+hondo	深	Estado
+poco	浅	Estado
+ancho	宽	Estado
+anchura	宽	Estado
+estrecho	窄	Estado
+pesa	重	Estado
+pesado	重	Estado
+duro	重	Estado
+ligero	轻	Estado
+apretado	紧	Estado
+flojo	松	Estado
+aflojar	松	Estado
+vacío	空	Estado
+hueco	空	Estado
+lleno	满	Estado
+repleto	满	Estado
+colmado	食品店	Estado
+espeso	密	Estado
+denso	密	Estado
+nuevo	新	Estado
+pasado	旧	Estado
+viejo	旧	Estado
+usado	旧	Estado
+joven	年青	Estado
+viejo	年迈	Estado
+mucho	多	Estado
+más	多	Estado
+poco	少	Estado
+escaso	少	Estado
+mucho	许多	Estado
+numeroso	许多	Estado
+seco	干	Estado
+mojado	湿	Estado
+húmedo	湿	Estado
+rápido	快	Estado
+veloz	快	Estado
+lento	慢	Estado
+despacio	慢	Estado
+lejano	远	Estado
+cercano	近	Estado
+próximo	近	Estado
+brillante	亮	Estado
+oscuro	暗	Estado
+con poca luz	暗	Estado
+negro	黑	Estado
+fuerte	强	Estado
+poderoso	强	Estado
+débil	弱	Estado
+fresco	鲜	Estado
+crudo	生	Estado
+maduro	熟	Estado
+cocido	熟	Estado
+quemar	烫	Estado
+calor	热	Estado
+sofocante	闷热	Estado
+templado	暖	Estado
+caliente	暖	Estado
+fría	凉	Estado
+fresco	凉	Estado
+frío	冷	Estado
+verdadero	真	Estado
+genuino	真	Estado
+artificial	假	Estado
+postizo	假	Estado
+caro	贵	Estado
+barato	便宜	Estado
+bueno	好	Estado
+malo	坏	Estado
+limpio	干净	Estado
+sucio	脏	Estado
+inmundo	脏	Estado
+manchado	脏	Estado
+hermoso	美	Estado
+bonito	美	Estado
+mal parecido	丑	Estado
+feo	丑	Estado
+aromático	香	Estado
+fragante	香	Estado
+fétido	臭	Estado
+maloliente	臭	Estado
+ocupado	忙	Estado
+atareado	忙	Estado
+libre	闲	Estado
+ocioso	闲	Estado
+difícil	难	Estado
+fácil	易	Estado
+por si acaso	万一	Estado
+cuidadoso	仔细	Estado
+simple	简单	Estado
+sencillo	简单	Estado
+complicada	复杂	Estado
+frenético	疯狂	Estado
+furioso	疯狂	Estado
+desenfrenado	疯狂	Estado
+normal	正常	Estado
+molestarse en	厌烦	Estado
+afortunado	吉祥	Estado
+transparente	透明	Estado
+turbio	浑浊	Estado
+rápido	迅速	Estado
+dar la bienvenida	欢迎	Estado
+cuidarse de	担心	Estado
+preciarse de	夸耀	Estado
+hacer falta	需要	Estado
+claro	清楚	Estado
+confuso	糊涂	Estado
+silencioso	安静	Estado
+tranquilo	安静	Estado
+empeñarse en	坚持努力	Estado
+contenerse	坚持努力	Estado
+contenerse	忍耐	Estado
+peligro	危险	Estado
+seguro	安全	Estado
+horrible	可怕	Estado
+temible	可怕	Estado
+desconocido	陌生	Estado
+fácil	方便	Estado
+cómodo	方便	Estado
+exitosamente	顺利	Estado
+felizmente	顺利	Estado
+ser hermético	水泄不通	Estado
+raro	奇怪	Estado
+extraño	奇怪	Estado
+fastidioso	讨厌	Estado
+limpio	清洁	Estado
+amable	可爱	Estado
+simpático	可爱	Estado
+bello	美丽	Estado
+lindo	美丽	Estado
+bonito	美丽	Estado
+uno o dos	个，把	量词
+clase	种类	量词
+par	对	量词
+pareja	双	量词
+juego	套	量词
+serie	套	量词
+surtido	套	量词
+uno	一份	量词
+dígito	位	量词
+bandada	群	量词
+grupo		量词
+pizca	撮	量词
+serie	组	量词
+fila	列	量词
+uno	一只	量词
+uno	一头	量词
+uno	一棵	量词
+uno	一朵	量词
+uno	一根	量词
+pedazo	块	量词
+gota	滴	量词
+uno	一把	量词
+ramo	束、捆	量词
+haz	束、捆	量词
+uno	一条	量词
+grano	粒	量词
+botella	瓶	量词
+taza	杯	量词
+copa	杯	量词
+aplicado a comida	顿	量词
+vez	次	量词
+capítulo	回	量词
+rollo	一卷	量词
+uno	一张	量词
+capa	层	量词
+oración	句	量词
+cuarto	间	量词
+habitación	间	量词
+caja	盒	量词
+bolsa	袋	量词
+saco	袋	量词
+volumen	册	量词
+tomo	册	量词
+ejemplar	册	量词
+uno	一部	量词
+uno	一艘	量词
+Titulo	称谓	Titulo
+ser humano	人	Titulo
+masculino	男	Titulo
+femenino	女	Titulo
+viejo	老人	Titulo
+mayor	长辈	Titulo
+joven	年轻	Titulo
+adolescente	少年	Titulo
+niño	儿童	Titulo
+niño	孩子	Titulo
+bebé	婴儿	Titulo
+señorita	小姐	Titulo
+cuñado	大叔、大伯	Titulo
+antepasados	祖先	Titulo
+antecesores	祖先	Titulo
+padres	父母	Titulo
+padre	父亲	Titulo
+madre	母亲	Titulo
+abuelo	爷爷、祖父	Titulo
+abuela	奶奶、祖母	Titulo
+primo	堂（表）兄	Titulo
+cuñada	嫂子	Titulo
+hermana menor	妹	Titulo
+hermano menor	兄弟、弟弟	Titulo
+hermanas	姐妹	Titulo
+hijo	儿子	Titulo
+hija	女儿	Titulo
+nuera	儿媳	Titulo
+nieto	孙子、外孙	Titulo
+nieta	孙女、外孙女	Titulo
+esposo	丈夫	Titulo
+esposa	妻子	Titulo
+esposos	夫妻	Titulo
+marido y mujer	夫妻	Titulo
+suegro	公公	Titulo
+padre del marido	公公	Titulo
+suegra	婆婆	Titulo
+tío	伯父、大叔	Titulo
+tía	伯母、姑母	Titulo
+sobrino	侄子	Titulo
+sobrina	侄女	Titulo
+hijos	子女	Titulo
+suegro	丈人、岳父	Titulo
+suegra	丈母、岳母	Titulo
+pariente	亲戚	Titulo
+yerno	女婿	Titulo
+tía	姨妈、小姑	Titulo
+Conducta y acción	动作	Conducta acción y
+ver	看	Conducta acción y
+leer	读	Conducta acción y
+escuchar	听	Conducta acción y
+olfatear	闻	Conducta acción y
+comer	吃	Conducta acción y
+preguntar	问	Conducta acción y
+beber	喝	Conducta acción y
+devorar	吞	Conducta acción y
+masticar	嚼	Conducta acción y
+morder	咬	Conducta acción y
+vomitar	吐	Conducta acción y
+absolber	吸	Conducta acción y
+soplar	吹	Conducta acción y
+lamer	舔	Conducta acción y
+agarrar	抓	Conducta acción y
+empuñar	握	Conducta acción y
+llevar	提	Conducta acción y
+cortar	掐	Conducta acción y
+sujetar	夹	Conducta acción y
+rascar	挠	Conducta acción y
+acariciar	摸	Conducta acción y
+encontrar	碰	Conducta acción y
+buscar	找	Conducta acción y
+recoger	摘	Conducta acción y
+rasgar	撕	Conducta acción y
+frotar	擦	Conducta acción y
+remover	拌	Conducta acción y
+torcer	拧	Conducta acción y
+romper	折	Conducta acción y
+remar	划	Conducta acción y
+tallar	雕刻	Conducta acción y
+esculpir	雕刻	Conducta acción y
+quitarse	脱	Conducta acción y
+temblar	抖	Conducta acción y
+poner	放	Conducta acción y
+empujar	推	Conducta acción y
+tirar	拉	Conducta acción y
+mudar	搬	Conducta acción y
+arrancar	拔	Conducta acción y
+sacar	拔	Conducta acción y
+sacar	抽	Conducta acción y
+acostarse	躺	Conducta acción y
+abrazar	抱	Conducta acción y
+pegar	打	Conducta acción y
+cortar	切断	Conducta acción y
+caer	落下	Conducta acción y
+echar	倒	Conducta acción y
+atar	捆	Conducta acción y
+amarrar	捆	Conducta acción y
+amarrar	系	Conducta acción y
+desatar	解开	Conducta acción y
+tejer	编织	Conducta acción y
+abrir	打开	Conducta acción y
+cerrar	关闭	Conducta acción y
+repartir	分	Conducta acción y
+envolver	包	Conducta acción y
+medir	量、测	Conducta acción y
+escavar	挖	Conducta acción y
+enterrar	埋	Conducta acción y
+pegar	粘	Conducta acción y
+recoger	捡	Conducta acción y
+estrechar la mano	握手	Conducta acción y
+batir palmas	拍手	Conducta acción y
+caminar	走	Conducta acción y
+correr	跑	Conducta acción y
+pasear	散步	Conducta acción y
+pisar	踩	Conducta acción y
+dar un punta pié	踢	Conducta acción y
+estar de pie	站	Conducta acción y
+perseguir	追赶	Conducta acción y
+huir	逃跑	Conducta acción y
+hurtar el cuerpo	闪躲	Conducta acción y
+en	乘坐	Conducta acción y
+sentarse	坐	Conducta acción y
+caerse	跌倒	Conducta acción y
+llevar a cuestas	背负	Conducta acción y
+descansar	休息	Conducta acción y
+echarse un sueño	打盹	Conducta acción y
+despertar	醒	Conducta acción y
+ponerse	穿	Conducta acción y
+lavar	洗	Conducta acción y
+tender	晾	Conducta acción y
+llevar	佩戴	Conducta acción y
+Pronombres	代词	Pronombres
+tú	你	Pronombres
+yo	我	Pronombres
+nosotros	我们	Pronombres
+nosotras	我们	Pronombres
+vosotros	你们	Pronombres
+vosotras	你们	Pronombres
+ella	她	Pronombres
+él	他	Pronombres
+propio	自己	Pronombres
+quién	谁	Pronombres
+este	这	Pronombres
+allí	那里	Pronombres
+aquí	这里	Pronombres
+cerca	近	Pronombres
+qué	什么	Pronombres
+dónde	哪里	Pronombres
+cuándo	什么时候	Pronombres
+cuánto	多少	Pronombres
+Los países	国家	Los países
+España	西班牙	Los países
+Estados Unidos	美国	Los países
+Francia	法国	Los países
+Inglaterra	英国	Los países
+Corea	韩国	Los países
+Tailandia	泰国	Los países
+Brasíl	巴西	Los países
+Polonia	波兰	Los países
+Dinamarca	丹麦	Los países
+Alemania	德国	Los países
+Filipinas	菲律宾	Los países
+Cuba	古巴	Los países
+Holanda	荷兰	Los países
+Malasia	马来西亚	Los países
+África del sur	南非	Los países
+Portugal	葡萄牙	Los países
+Suiza	瑞士	Los países
+Turquía	土耳其	Los países
+Grecia	希腊	Los países
+Singapur	新加坡	Los países
+Nueva Zelanda	新西兰	Los países
+India	印度	Los países
+Italia	意大利	Los países
+Vietnam	越南	Los países
+Australia	澳大利亚	Los países
+Israel	以色列	Los países
+Austria	奥地利	Los países
+México	墨西哥	Los países
+Canadá	加拿大	Los países
+Mongolia	蒙古	Los países
+Venezuela	委内瑞拉	Los países
+Ecuador	厄瓜多尔	Los países
+Ropa y Sombreros	1、服装衣帽	Ropa Sombresos y
+ropa	衣服	Ropa Sombresos y
+chaqueta	西服的上装	Ropa Sombresos y
+ropa de caballero	男装	Ropa Sombresos y
+falda	裙子	Ropa Sombresos y
+vestido	连衣裙	Ropa Sombresos y
+pantalón	裤子	Ropa Sombresos y
+jersey	毛	Ropa Sombresos y
+traje de plumón	羽绒服	Ropa Sombresos y
+abrigo	大衣	Ropa Sombresos y
+abrigo de invierno	冬季大衣	Ropa Sombresos y
+túnica	袍	Ropa Sombresos y
+toga	袍	Ropa Sombresos y
+kimono	日本和服	Ropa Sombresos y
+camisa	男士衬衣	Ropa Sombresos y
+blusa	女士衬衫	Ropa Sombresos y
+traje de etiqueta	大礼服、燕尾服	Ropa Sombresos y
+frac	大礼服、燕尾服	Ropa Sombresos y
+talla grande L	大号	Ropa Sombresos y
+capa	斗篷	Ropa Sombresos y
+corona	冠冕	Ropa Sombresos y
+estilo	服装式样	Ropa Sombresos y
+modelo	服装式样	Ropa Sombresos y
+cazadora	猎装	Ropa Sombresos y
+corsé	紧身胸衣	Ropa Sombresos y
+calcetines	丝袜	Ropa Sombresos y
+medias	丝袜	Ropa Sombresos y
+camiseta de verano	短衫	Ropa Sombresos y
+falda-pantalón	裙裤	Ropa Sombresos y
+toalla	方巾	Ropa Sombresos y
+ropa de bebé	婴儿服装	Ropa Sombresos y
+chaqueta	短上衣	Ropa Sombresos y
+gabardina	风衣	Ropa Sombresos y
+pullóver	毛背心 T恤	Ropa Sombresos y
+chaqueta guateada	棉袄	Ropa Sombresos y
+impermeable	雨衣	Ropa Sombresos y
+albornoz	浴衣	Ropa Sombresos y
+bañador	游泳衣	Ropa Sombresos y
+traje playero	沙滩服	Ropa Sombresos y
+vestido de marinero	水兵服	Ropa Sombresos y
+bata	大褂	Ropa Sombresos y
+camisón	睡衣	Ropa Sombresos y
+pijama	睡裤	Ropa Sombresos y
+pantalón vaquero	牛仔裤	Ropa Sombresos y
+jeans	牛仔裤	Ropa Sombresos y
+patalón corto	短裤	Ropa Sombresos y
+traje	礼服	Ropa Sombresos y
+uniforme	制服	Ropa Sombresos y
+traje de moda	时装	Ropa Sombresos y
+falda de gala	宴会裙	Ropa Sombresos y
+combinación	衬裙	Ropa Sombresos y
+falda escocesa	苏格兰男短裙	Ropa Sombresos y
+vestido	连衣裙	Ropa Sombresos y
+delantal	围裙	Ropa Sombresos y
+chaqueta	夹克衫	Ropa Sombresos y
+pichi	儿童背带裤	Ropa Sombresos y
+traje de sport	便服	Ropa Sombresos y
+chandal	运动服	Ropa Sombresos y
+ropa interior	内衣	Ropa Sombresos y
+pijama	睡衣裤	Ropa Sombresos y
+bragas	内裤（三角女式）	Ropa Sombresos y
+velo	面纱	Ropa Sombresos y
+chaleco	背心	Ropa Sombresos y
+media corta	中筒袜	Ropa Sombresos y
+leotardos	连库长筒袜	Ropa Sombresos y
+calcetines	短袜	Ropa Sombresos y
+cinturón elástico	松紧腰带	Ropa Sombresos y
+lazo	束腰带	Ropa Sombresos y
+sombrero	帽子	Ropa Sombresos y
+visera	帽檐	Ropa Sombresos y
+horma	帽模	Ropa Sombresos y
+gorro de punto	绒线帽（针织的）	Ropa Sombresos y
+sombrero de visón	貂皮帽	Ropa Sombresos y
+boina	贝雷帽	Ropa Sombresos y
+sombrero de verano	太阳帽	Ropa Sombresos y
+gorro con borla	滑雪帽	Ropa Sombresos y
+gorro	工作帽	Ropa Sombresos y
+sombrero de bambú	竹帽	Ropa Sombresos y
+sombreo de cofia	扣带女帽	Ropa Sombresos y
+bota de marcha	旅游鞋	Ropa Sombresos y
+mocasín	休闲鞋	Ropa Sombresos y
+bota de agua	雨鞋	Ropa Sombresos y
+zapatilla de deporte	运动鞋	Ropa Sombresos y
+alpargatas	帆布鞋	Ropa Sombresos y
+chancleta	拖鞋	Ropa Sombresos y
+sandalia frailuna	凉鞋	Ropa Sombresos y
+chinelas	便鞋	Ropa Sombresos y
+suela	鞋底	Ropa Sombresos y
+betún	鞋油	Ropa Sombresos y
+tacón	鞋跟	Ropa Sombresos y
+zuela	木底鞋	Ropa Sombresos y
+cinturón	腰带	Ropa Sombresos y
+guante	手套	Ropa Sombresos y
+pañuelo	手绢、手帕、手巾	Ropa Sombresos y
+cinta	带子	Ropa Sombresos y
+calzado	鞋	Ropa Sombresos y
+zapato	皮鞋	Ropa Sombresos y
+calzado de trabajo	工作鞋	Ropa Sombresos y
+patines en línea	滑冰鞋	Ropa Sombresos y
+botas vaqueras	牛仔鞋	Ropa Sombresos y
+vestido de novia	婚纱	Ropa Sombresos y
+chaqueta de visón	貂皮短上衣	Ropa Sombresos y
+vestido de noche	礼服（女装）	Ropa Sombresos y
+probador	试衣室	Ropa Sombresos y
+ropa de señora	女装	Ropa Sombresos y
+bufanda	围巾	Ropa Sombresos y
+chal	披（肩、巾）	Ropa Sombresos y
+poncho	披（肩、巾）	Ropa Sombresos y
+chilina	领巾	Ropa Sombresos y
+pañuelo	头巾	Ropa Sombresos y
+corbata	领带	Ropa Sombresos y
+sostén	文胸	Ropa Sombresos y
+sujetador	文胸	Ropa Sombresos y
+tela	布	Ropa Sombresos y
+fibra	纤维	Ropa Sombresos y
+tejido de seda	丝织品	Ropa Sombresos y
+seda	丝绸	Ropa Sombresos y
+punto	针织	Ropa Sombresos y
+hilandera de algodón	棉纺	Ropa Sombresos y
+cañamo	麻	Ropa Sombresos y
+lana	羊毛	Ropa Sombresos y
+nailon	尼龙	Ropa Sombresos y
+piel	皮	Ropa Sombresos y
+textiles de algodón	棉织品	Ropa Sombresos y
+manta de algodón	棉毯	Ropa Sombresos y
+camiseta de algodón	棉毛衫	Ropa Sombresos y
+cinta de seda	丝带	Ropa Sombresos y
+vestido modelo	服装样式（展样服装）	Ropa Sombresos y
+diseñar	设计	Ropa Sombresos y
+sastrería	裁缝店	Ropa Sombresos y
+sastre	服装裁缝	Ropa Sombresos y
+cuello	领子	Ropa Sombresos y
+periferia	周围	Ropa Sombresos y
+ancho	宽度	Ropa Sombresos y
+anchura	宽度	Ropa Sombresos y
+botón	扣子	Ropa Sombresos y
+manga	袖子	Ropa Sombresos y
+bolsillo	衣袋	Ropa Sombresos y
+cierre de cremallera	拉链	Ropa Sombresos y
+adorno de encaje	花边	Ropa Sombresos y
+medida	尺码	Ropa Sombresos y
+color	颜色	Ropa Sombresos y
+color	色调	Ropa Sombresos y
+tono	色调	Ropa Sombresos y
+revista de moda	时装杂志	Ropa Sombresos y
+modelo	模特	Ropa Sombresos y
+tintorería	洗染店	Ropa Sombresos y
+lavado en seco	干洗	Ropa Sombresos y
+detergente en polvo	洗衣粉	Ropa Sombresos y
+agente decolorante	漂白剂	Ropa Sombresos y
+tendedero	晾衣绳	Ropa Sombresos y
+soporte de tendido	晾衣架	Ropa Sombresos y
+jabón	肥皂	Ropa Sombresos y
+lavar ropa	洗衣	Ropa Sombresos y
+detergente	洗涤剂	Ropa Sombresos y
+lavar	洗	Ropa Sombresos y
+Adornos	2、饰品	Adornos
+collar	项链	Adornos
+dieje	项链坠	Adornos
+pulsera	手镯	Adornos
+anillo	戒指	Adornos
+aretes	耳环、耳钉	Adornos
+ágata	玛瑙	Adornos
+marfil	象牙	Adornos
+perla	珍珠	Adornos
+oro	金	Adornos
+plata	银	Adornos
+piedra preciosa	宝石	Adornos
+diamante	钻石	Adornos
+esmeralda	翡翠石	Adornos
+gafas	眼镜	Adornos
+bolso	手提包	Adornos
+joyas	首饰	Adornos
+rubí	红宝石	Adornos
+platino	白金	Adornos
+broche alargado	别针	Adornos
+jade blanco	白玉	Adornos
+broche	胸针	Adornos
+joyería	首饰店	Adornos
+tienda de artesanía	工艺品店	Adornos
+billetero	钱包	Adornos
+Belleza y Cosméticos	3、美容、化妆品	Belleza Cosméticos y
+embellecerse	美容	Belleza Cosméticos y
+embellecerse en todo cuerpo	全身美容	Belleza Cosméticos y
+cuidar de la piel	皮肤护理	Belleza Cosméticos y
+maquillarse	化妆	Belleza Cosméticos y
+piel	皮肤	Belleza Cosméticos y
+perfume	香水	Belleza Cosméticos y
+sombra de ojos	眼影	Belleza Cosméticos y
+crema de ojos	眼霜	Belleza Cosméticos y
+cultivador de pestañas	睫毛液	Belleza Cosméticos y
+protector de sol	防晒霜	Belleza Cosméticos y
+pintura de uñas	指甲油	Belleza Cosméticos y
+colorete	胭脂	Belleza Cosméticos y
+pañuelo de papel	面巾纸	Belleza Cosméticos y
+astringente	化妆水	Belleza Cosméticos y
+crema de limpieza	洗面奶	Belleza Cosméticos y
+loción de refresco de piel	润肤水	Belleza Cosméticos y
+crema de primer tocamiento	粉底霜	Belleza Cosméticos y
+polvo de tocador	香粉	Belleza Cosméticos y
+líquido protector de las manos	护手液	Belleza Cosméticos y
+crema para el cutis	润肤霜	Belleza Cosméticos y
+pasta de polvo	粉饼	Belleza Cosméticos y
+borla	粉扑	Belleza Cosméticos y
+pinza de pestaña	睫毛夹	Belleza Cosméticos y
+líquido para quitar esmalte de las uñas	洗甲水	Belleza Cosméticos y
+lápiz labial	唇膏	Belleza Cosméticos y
+arreglar las uñas	美甲	Belleza Cosméticos y
+lunar	痣	Belleza Cosméticos y
+peca	雀斑	Belleza Cosméticos y
+jabón de tocador	香皂	Belleza Cosméticos y
+arruga	皱纹	Belleza Cosméticos y
+tratamiento de masaje	按摩疗法	Belleza Cosméticos y
+masaje	按摩	Belleza Cosméticos y
+ducharse	淋浴	Belleza Cosméticos y
+cortarse el pelo	理发	Belleza Cosméticos y
+pelo	头发	Belleza Cosméticos y
+teñirse el pelo	染发	Belleza Cosméticos y
+rizar el pelo	烫发	Belleza Cosméticos y
+afeitarse	刮脸	Belleza Cosméticos y
+fijar el pelo según el peinado	给头发定型	Belleza Cosméticos y
+cortar el pelo	剪头发	Belleza Cosméticos y
+peinado	发型	Belleza Cosméticos y
+pelo liso	直发	Belleza Cosméticos y
+corte de pelo	平头	Belleza Cosméticos y
+flequillo	刘海儿	Belleza Cosméticos y
+peluca	假发	Belleza Cosméticos y
+cepillo para el cabello	发刷	Belleza Cosméticos y
+rulo	卷发器	Belleza Cosméticos y
+pinza para el cabello	发夹	Belleza Cosméticos y
+secador	吹风机	Belleza Cosméticos y
+tenacillas de rizar	卷发钳	Belleza Cosméticos y
+cultivador de cabello	生发水	Belleza Cosméticos y
+fijador para el cabello	发胶	Belleza Cosméticos y
+aceite para el cabello	发油	Belleza Cosméticos y
+colonia	花露水 殖民地	Belleza Cosméticos y
+champú	洗发精	Belleza Cosméticos y
+Color	4、颜色	Color
+blanco	白色	Color
+naranja	橙色	Color
+color café	咖啡色	Color
+color crema	米黄色	Color
+color mantequilla	奶油色	Color
+gris	灰色	Color
+color dorado	金色	Color
+color plateado	银色	Color
+rojo	红色	Color
+amarillo	黄色	Color
+azul	蓝色	Color
+verde	绿色	Color
+azul oscuro	深蓝色	Color
+color verde hierba	草绿色	Color
+negro	黑色	Color
+marrón	褐色	Color
+violeta	紫色	Color
+color castaño	栗色	Color
+Comida y Bebida	1、饮食	Bebida Comida y
+comer	吃	Bebida Comida y
+beber	喝	Bebida Comida y
+restaruante	餐厅	Bebida Comida y
+desayuno	早饭	Bebida Comida y
+almuerzo	午饭	Bebida Comida y
+cena	晚饭	Bebida Comida y
+pastel	点心	Bebida Comida y
+comida occidental	西餐	Bebida Comida y
+comida China	中餐	Bebida Comida y
+paladar	料理	Bebida Comida y
+alimentos	食品	Bebida Comida y
+picante	辣	Bebida Comida y
+salado	咸	Bebida Comida y
+ácido	酸	Bebida Comida y
+olor pescado	腥	Bebida Comida y
+áspero	涩	Bebida Comida y
+amargo	苦	Bebida Comida y
+un poco picante	微辣	Bebida Comida y
+perfumado	香	Bebida Comida y
+grasa	油腻	Bebida Comida y
+ligero	清淡	Bebida Comida y
+blando	软	Bebida Comida y
+duro	硬	Bebida Comida y
+frágil	脆	Bebida Comida y
+frito	炸	Bebida Comida y
+cocer	煮	Bebida Comida y
+cocer al vapor	蒸	Bebida Comida y
+sofreir	炒	Bebida Comida y
+saltear	炒	Bebida Comida y
+freir	煎	Bebida Comida y
+tostar	烤	Bebida Comida y
+pasado por caldo	涮	Bebida Comida y
+mezclar	拌	Bebida Comida y
+estofar	炖	Bebida Comida y
+machacar	捣	Bebida Comida y
+Cubiertos	2、餐具	Bebida Comida y
+bol	碗	Bebida Comida y
+tazón	碗	Bebida Comida y
+palillos	筷子	Bebida Comida y
+cuchara	勺子	Bebida Comida y
+tenedor	叉子	Bebida Comida y
+servilleta	餐巾	Bebida Comida y
+tetera	茶壶	Bebida Comida y
+taza	杯子	Bebida Comida y
+servilleta húmeda	湿纸巾	Bebida Comida y
+cafetera	咖啡壶	Bebida Comida y
+cuchara	匙	Bebida Comida y
+mesa	餐桌	Bebida Comida y
+plato	盘、碟	Bebida Comida y
+botella	瓶子	Bebida Comida y
+cuchillo	刀	Bebida Comida y
+salero	盐瓶	Bebida Comida y
+vasija	器皿	Bebida Comida y
+recipiente	器皿	Bebida Comida y
+aparador	餐具柜	Bebida Comida y
+canastilla	篮	Bebida Comida y
+calientaplato	电热板	Bebida Comida y
+sacacorchos	开塞钻	Bebida Comida y
+especias y cereales	3、调料、五谷	Bebida Comida y
+jengibre	生姜	Bebida Comida y
+ajo	大蒜	Bebida Comida y
+arroz glutinoso	糯米	Bebida Comida y
+alforfón	荞麦	Bebida Comida y
+trigo	小麦	Bebida Comida y
+cebada	大麦	Bebida Comida y
+maíz	玉米	Bebida Comida y
+legumbre seca	豆	Bebida Comida y
+arroz	大米	Bebida Comida y
+sal	盐	Bebida Comida y
+aceite	油	Bebida Comida y
+salsa de soja	酱油	Bebida Comida y
+vinagre	醋	Bebida Comida y
+azúcar	糖	Bebida Comida y
+salsa	酱	Bebida Comida y
+chile	辣椒	Bebida Comida y
+pimienta	胡椒	Bebida Comida y
+sorgo	高粱	Bebida Comida y
+cereales	谷物	Bebida Comida y
+sésamo	芝麻	Bebida Comida y
+cari	咖喱	Bebida Comida y
+corteza de laurel	桂皮	Bebida Comida y
+cebollino	葱	Bebida Comida y
+salsa	调味汁	Bebida Comida y
+mostaza	芥末	Bebida Comida y
+avena	燕麦	Bebida Comida y
+Frutas y hortalizas	4、蔬菜水果	Bebida Comida y
+verduras	蔬菜	Bebida Comida y
+patata	土豆	Bebida Comida y
+patata dulce	地瓜	Bebida Comida y
+verdura silvestre	野菜	Bebida Comida y
+pepino	黄瓜	Bebida Comida y
+tomate	西红柿	Bebida Comida y
+cebolla	洋葱	Bebida Comida y
+berenjena	茄子	Bebida Comida y
+cebollín	韭菜	Bebida Comida y
+calabaza	南瓜	Bebida Comida y
+repollo	白菜	Bebida Comida y
+champiñón	蘑菇	Bebida Comida y
+apio	芹菜	Bebida Comida y
+zanahoria	胡萝卜	Bebida Comida y
+chayote	西葫芦	Bebida Comida y
+coliflor	菜花	Bebida Comida y
+papa	马铃薯	Bebida Comida y
+aguaturma	洋姜	Bebida Comida y
+esparrago	芦笋	Bebida Comida y
+judía	菜豆	Bebida Comida y
+breza	卷心菜	Bebida Comida y
+anís	茴香	Bebida Comida y
+colocasia	芋头	Bebida Comida y
+sandía	西瓜	Bebida Comida y
+lechuga	莴笋 生菜	Bebida Comida y
+melón	甜瓜	Bebida Comida y
+caqui	柿子	Bebida Comida y
+limón	柠檬	Bebida Comida y
+fresa	草莓	Bebida Comida y
+cereza	樱桃	Bebida Comida y
+granada	石榴	Bebida Comida y
+pera	梨	Bebida Comida y
+manzana	苹果	Bebida Comida y
+mandarina	桔子	Bebida Comida y
+naranja	橙子	Bebida Comida y
+plátano	香蕉	Bebida Comida y
+piña	菠萝	Bebida Comida y
+uva	葡萄	Bebida Comida y
+albaricoque	杏	Bebida Comida y
+melocotón	桃	Bebida Comida y
+ñame	山药	Bebida Comida y
+olivo	橄榄	Bebida Comida y
+girasol	向日葵	Bebida Comida y
+sésamo	芝麻	Bebida Comida y
+ciruela	洋李子	Bebida Comida y
+mango	芒果	Bebida Comida y
+carne	5、生鲜肉	Bebida Comida y
+ternera	小牛肉	Bebida Comida y
+cerdo	猪肉	Bebida Comida y
+relleno de carne	肉馅	Bebida Comida y
+chuleta	排骨	Bebida Comida y
+huevos	鸡蛋	Bebida Comida y
+jamón	火腿	Bebida Comida y
+carne asada	火腿	Bebida Comida y
+pata de puérco	猪蹄	Bebida Comida y
+carpa	鲤鱼	Bebida Comida y
+camarón	虾	Bebida Comida y
+pescado	鱼	Bebida Comida y
+pollo	鸡肉	Bebida Comida y
+salchicha	香肠	Bebida Comida y
+manteca de cerdo	猪油	Bebida Comida y
+cabeza de cerdo	猪头	Bebida Comida y
+carne de vaca	牛肉	Bebida Comida y
+tocino saladillo	咸肉	Bebida Comida y
+pato	鸭	Bebida Comida y
+besugo	鲷鱼	Bebida Comida y
+cangrejo	螃蟹	Bebida Comida y
+calamar	鱿鱼	Bebida Comida y
+trucha	鳟鱼	Bebida Comida y
+marisco	海鲜	Bebida Comida y
+filete	里脊	Bebida Comida y
+cordero	羊肉	Bebida Comida y
+langosta	龙虾	Bebida Comida y
+Comida China	6、中国菜	Bebida Comida y
+filete de ternera	牛肉片	Bebida Comida y
+ternera con salsa de ostra	蚝油牛肉	Bebida Comida y
+sopa agri-picante	酸辣汤	Bebida Comida y
+pan chino	馒头	Bebida Comida y
+pollo asado	烤鸡	Bebida Comida y
+tallarínes con salsa y picadillo frito de cerdo	炸酱面	Bebida Comida y
+pollo con nueces	核桃炒鸡	Bebida Comida y
+maíz	玉米	Bebida Comida y
+pastel de harina de arroz	米糕	Bebida Comida y
+ravioles	饺子	Bebida Comida y
+tallarín	面条	Bebida Comida y
+tortilla	饼	Bebida Comida y
+rollo de primavera	春卷	Bebida Comida y
+tallarines fritos	炒面	Bebida Comida y
+legumbres	泡菜	Bebida Comida y
+escalfador picante	辣火锅	Bebida Comida y
+sopa de arroz	粥	Bebida Comida y
+brote de bambú	笋	Bebida Comida y
+plato estofado	炖菜	Bebida Comida y
+arroz frito	炒饭	Bebida Comida y
+gambas a la plancha	铁板虾	Bebida Comida y
+pescado agridulce	甜酸鱼	Bebida Comida y
+pato laqueado	烤鸭 漆	Bebida Comida y
+setas chinas	香菇	Bebida Comida y
+almeja	蛤蜊	Bebida Comida y
+albóndiga	肉丸子	Bebida Comida y
+comida occidental y comida rápida	7、西餐、快餐	Bebida Comida y
+bocadillo	三明治	Bebida Comida y
+café	咖啡	Bebida Comida y
+ensalada	沙拉	Bebida Comida y
+productors lácteos	乳制品	Bebida Comida y
+queso	奶酪	Bebida Comida y
+pizza	比萨	Bebida Comida y
+pastel	糕点	Bebida Comida y
+pan	面包	Bebida Comida y
+espaguetis	意大利面	Bebida Comida y
+mermelada	果酱	Bebida Comida y
+galletas	饼干	Bebida Comida y
+chocolate	巧克力	Bebida Comida y
+helado	冰激凌	Bebida Comida y
+torta	蛋糕	Bebida Comida y
+yogúr	酸奶	Bebida Comida y
+caramelo	糖果	Bebida Comida y
+zumo de frutas	果汁（西班牙）	Bebida Comida y
+natillas	奶昔	Bebida Comida y
+escuela	派	Bebida Comida y
+leche	牛奶	Bebida Comida y
+té de limón	柠檬茶	Bebida Comida y
+dulce	点心	Bebida Comida y
+cerveza	啤酒	Bebida Comida y
+agua	水	Bebida Comida y
+té	茶	Bebida Comida y
+comida rápida	快餐	Bebida Comida y
+vino	葡萄酒	Bebida Comida y
+licor	白酒	Bebida Comida y
+cocacola	可口可乐	Bebida Comida y
+patatas	薯条	Bebida Comida y
+budín	布丁	Bebida Comida y
+mantequilla	奶油	Bebida Comida y
+bebida	饮料	Bebida Comida y
+Establecimiento de vienda	1、居住设施	cimiento de Estable vienda
+familia	家	Estable cimiento de vienda
+cuarto	房间	Estable cimiento de vienda
+apartamento	公寓	Estable cimiento de vienda
+casa	住宅	Estable cimiento de vienda
+ventana	窗户	Estable cimiento de vienda
+puerta	门	Estable cimiento de vienda
+seto	树篱	Estable cimiento de vienda
+zona residencial	社区	Estable cimiento de vienda
+villa	别墅	Estable cimiento de vienda
+mansión	大厦	Estable cimiento de vienda
+salón	客厅	Estable cimiento de vienda
+dormitorio	卧室	Estable cimiento de vienda
+estudio	书房	Estable cimiento de vienda
+cocina	厨房	Estable cimiento de vienda
+balcón	阳台	Estable cimiento de vienda
+garaje	车库	Estable cimiento de vienda
+galería	走廊	Estable cimiento de vienda
+escalera	楼梯	Estable cimiento de vienda
+elevador	电梯	Estable cimiento de vienda
+alcantarilla	下水道	Estable cimiento de vienda
+techo	天花板	Estable cimiento de vienda
+administrar	管理	Estable cimiento de vienda
+toldo	遮阳棚	Estable cimiento de vienda
+baño	卫生间	Estable cimiento de vienda
+cuarto de baño	浴室	Estable cimiento de vienda
+tejado	房顶	Estable cimiento de vienda
+techo	房顶	Estable cimiento de vienda
+edificio	楼房	Estable cimiento de vienda
+pasamanos	扶手	Estable cimiento de vienda
+patio	院子	Estable cimiento de vienda
+desván	房顶楼	Estable cimiento de vienda
+chimenea	烟囱	Estable cimiento de vienda
+pared	墙	Estable cimiento de vienda
+césped	草地	Estable cimiento de vienda
+terraza	露台	Estable cimiento de vienda
+jardín	花园	Estable cimiento de vienda
+sótano	地下室	Estable cimiento de vienda
+acera	人行道	Estable cimiento de vienda
+piso	地板	Estable cimiento de vienda
+ama de casa	家庭主妇	Estable cimiento de vienda
+dueño de la casa	房东	Estable cimiento de vienda
+alquiler	房租	Estable cimiento de vienda
+renta	租金	Estable cimiento de vienda
+depósito	押金	Estable cimiento de vienda
+huésped	房客	Estable cimiento de vienda
+afuera	郊区	Estable cimiento de vienda
+pueblo	村庄	Estable cimiento de vienda
+ciudad	城市	Estable cimiento de vienda
+tugurios	贫民区	Estable cimiento de vienda
+zona urbanizada	市区	Estable cimiento de vienda
+muebles y decoración	2、家具、摆设	Estable cimiento de vienda
+cortina	窗帘	Estable cimiento de vienda
+alfombra	地毯	Estable cimiento de vienda
+muebles	家具	Estable cimiento de vienda
+mesa	桌	Estable cimiento de vienda
+cama	床	Estable cimiento de vienda
+armario	衣柜	Estable cimiento de vienda
+cojín	靠垫	Estable cimiento de vienda
+sofá	沙发	Estable cimiento de vienda
+espejo	镜子	Estable cimiento de vienda
+taburete	凳子	Estable cimiento de vienda
+silla	椅子	Estable cimiento de vienda
+mapa	地图	Estable cimiento de vienda
+florero	花瓶	Estable cimiento de vienda
+calendario	日历	Estable cimiento de vienda
+tocador	梳妆台	Estable cimiento de vienda
+armario de libro	书橱	Estable cimiento de vienda
+cajón	抽屉	Estable cimiento de vienda
+edredón	被子	Estable cimiento de vienda
+almohada	枕头	Estable cimiento de vienda
+colcha	床罩	Estable cimiento de vienda
+reloj	时钟	Estable cimiento de vienda
+lámpara	灯	Estable cimiento de vienda
+cuadro	画	Estable cimiento de vienda
+escritorio	书写台	Estable cimiento de vienda
+lámpara de mesa	台灯	Estable cimiento de vienda
+estudio	书房	Estable cimiento de vienda
+mesa de noche	床头柜	Estable cimiento de vienda
+papelera	纸篓	Estable cimiento de vienda
+pecera	鱼缸	Estable cimiento de vienda
+jáula	鸟笼	Estable cimiento de vienda
+plantas de interior	室内植物	Estable cimiento de vienda
+candelabro	烛台	Estable cimiento de vienda
+tocador y baño	3、卫生间、浴室	Estable cimiento de vienda
+bañera	浴缸	Estable cimiento de vienda
+toallero	毛巾架	Estable cimiento de vienda
+palangana	洗脸盆	Estable cimiento de vienda
+ducha	淋浴间	Estable cimiento de vienda
+esponja de baño	沐浴海绵	Estable cimiento de vienda
+papel higiénico	卫生纸	Estable cimiento de vienda
+retrete	抽水马桶	Estable cimiento de vienda
+grifo	水龙头	Estable cimiento de vienda
+espejo	镜子	Estable cimiento de vienda
+líquido dentifrico	漱口剂	Estable cimiento de vienda
+cepillo de dientes	牙刷	Estable cimiento de vienda
+jabón líquido	洗手液	Estable cimiento de vienda
+champú	洗发液	Estable cimiento de vienda
+jabón	肥皂	Estable cimiento de vienda
+máquina de afeitar	刮胡刀	Estable cimiento de vienda
+alfombra de baño	浴室防滑垫	Estable cimiento de vienda
+Aparatos y utensilios del hogar	4、家用器具	Estable cimiento de vienda
+equipos eléctricos	家电	Estable cimiento de vienda
+aire acondicionado	空调	Estable cimiento de vienda
+refrigerador	冰箱	Estable cimiento de vienda
+televisión	电视	Estable cimiento de vienda
+ventilador	电扇	Estable cimiento de vienda
+lavadora	洗衣机	Estable cimiento de vienda
+cámara de video	录像机	Estable cimiento de vienda
+mando	遥控器	Estable cimiento de vienda
+manta eléctrica	电热毯	Estable cimiento de vienda
+cocina eléctrica	电灶	Estable cimiento de vienda
+radiador	暖气片	Estable cimiento de vienda
+aspirador	吸尘器	Estable cimiento de vienda
+plancha eléctrica	电熨斗	Estable cimiento de vienda
+tocadiscos	点唱机	Estable cimiento de vienda
+auricular	耳机	Estable cimiento de vienda
+radio	收音机	Estable cimiento de vienda
+grabadora	录音机	Estable cimiento de vienda
+enchufe	插头	Estable cimiento de vienda
+alambre eléctrico	电线	Estable cimiento de vienda
+acústica	音响	Estable cimiento de vienda
+fuente alimentadora de corriente	电源	Estable cimiento de vienda
+linterna eléctrica	电筒	Estable cimiento de vienda
+eléctrica lámpara	电灯	Estable cimiento de vienda
+luz	日光灯	Estable cimiento de vienda
+tiembre	电铃	Estable cimiento de vienda
+teléfono	电话机	Estable cimiento de vienda
+cámara	摄像机	Estable cimiento de vienda
+giradiscos video	影碟机	Estable cimiento de vienda
+radiocassette	收录两用机	Estable cimiento de vienda
+micrófono	麦克风	Estable cimiento de vienda
+electrómetro	电表	Estable cimiento de vienda
+llave	钥匙	Estable cimiento de vienda
+maleta	手提包	Estable cimiento de vienda
+paraguas	雨伞	Estable cimiento de vienda
+carrito de la compra	购物车	Estable cimiento de vienda
+escoba	扫帚	Estable cimiento de vienda
+cubo	水桶（提桶）	Estable cimiento de vienda
+cepillo	刷子	Estable cimiento de vienda
+tendedero	晾衣架	Estable cimiento de vienda
+cámara fotográfica	照相机	Estable cimiento de vienda
+utensilios de cocina	5、厨房用品	Estable cimiento de vienda
+mueble de cocina	厨房用具	Estable cimiento de vienda
+abrelatas	起子	Estable cimiento de vienda
+cazuela	锅	Estable cimiento de vienda
+cuchillo	刀	Estable cimiento de vienda
+sartén	平底锅（煎）	Estable cimiento de vienda
+jarra	盛水壶	Estable cimiento de vienda
+termo	热水瓶	Estable cimiento de vienda
+cuchara	勺	Estable cimiento de vienda
+sacacorchos	开塞钻	Estable cimiento de vienda
+armario de pared	碗柜（壁式）	Estable cimiento de vienda
+olla	锅（西班牙一种杂烩锅）	Estable cimiento de vienda
+campana	抽（排）油烟机	Estable cimiento de vienda
+ollas prés	电饭煲	Estable cimiento de vienda
+horno microondas	微波炉	Estable cimiento de vienda
+horno	烤箱	Estable cimiento de vienda
+exprimidor	榨汁机	Estable cimiento de vienda
+varilla de batir	打蛋器	Estable cimiento de vienda
+fregadero	洗涤槽	Estable cimiento de vienda
+cafetera eléctrica	电煮咖啡器	Estable cimiento de vienda
+lavavajillas	洗碗机	Estable cimiento de vienda
+aparador	餐具柜	Estable cimiento de vienda
+delantal	围裙	Estable cimiento de vienda
+esponja	海绵	Estable cimiento de vienda
+trapo	抹布	Estable cimiento de vienda
+agarrador	放热垫	Estable cimiento de vienda
+recogedor	簸箕	Estable cimiento de vienda
+polvo	灰尘	Estable cimiento de vienda
+basura	垃圾	Estable cimiento de vienda
+trapeador	拖把	Estable cimiento de vienda
+barreño	盆	cimiento de Estable vienda
+reloj de cocina	厨房钟	Estable cimiento de vienda
+embudo	漏斗	Estable cimiento de vienda
+estante de especias	调料架	Estable cimiento de vienda
+lámpara de cocina	厨房灯	Estable cimiento de vienda
+herramientas y tipos	6、工具	Estable cimiento de vienda
+herramienta	工具	Estable cimiento de vienda
+pala	锹	Estable cimiento de vienda
+alicates	钳子	Estable cimiento de vienda
+clavo	钉子	Estable cimiento de vienda
+cepillo	刨子	Estable cimiento de vienda
+martillo	锤子	Estable cimiento de vienda
+sierra	锯子	Estable cimiento de vienda
+destornillador	螺丝刀改锥	Estable cimiento de vienda
+cincel	凿子	Estable cimiento de vienda
+laya	铲	Estable cimiento de vienda
+cinta adhesiva	胶（粘）带	Estable cimiento de vienda
+automóvil	1、汽车	Serie de movilización transporte y
+taxi	出租车	Serie de movilización transporte y
+coche	轿车	Serie de movilización transporte y
+autobús	公共汽车	Serie de movilización transporte y
+auto	汽车	Serie de movilización transporte y
+jeep	吉普车	Serie de movilización transporte y
+camión	卡车	Serie de movilización transporte y
+camión de bomberos	消防车	Serie de movilización transporte y
+camión de mudanzas	家具搬用车	Serie de movilización transporte y
+autobús	长途客车	Serie de movilización transporte y
+coche de auxilio en carretera	救援车	Serie de movilización transporte y
+tractor	拖拉机	Serie de movilización transporte y
+furgoneta	厢式卡车	Serie de movilización transporte y
+trolebús	无轨电车	Serie de movilización transporte y
+cisterna remolcada	油罐车 （蓄水池  拖拽）	de movilización Serie transporte y
+coche celular	警车	Serie de movilización transporte y
+ambulancia	救护车	Serie de movilización transporte y
+tranvía	电车	Serie de movilización transporte y
+microbús	小公共汽车	Serie de movilización transporte y
+carricuba	晒水车	Serie de movilización transporte y
+vehículo barredor	路面清扫车	Serie de movilización transporte y
+camión de recogida	垃圾车	Serie de movilización transporte y
+puerta del vehículo	车门	Serie de movilización transporte y
+volante	方向盘	Serie de movilización transporte y
+motor	发动机	Serie de movilización transporte y
+embrague	离合器	Serie de movilización transporte y
+señal acústica	喇叭	Serie de movilización transporte y
+marcha atrás	倒车档	Serie de movilización transporte y
+freno	制动器	Serie de movilización transporte y
+acelerador	油门	Serie de movilización transporte y
+parabrisas	风挡玻璃	Serie de movilización transporte y
+tope del parachoques	保险杠	Serie de movilización transporte y
+retrovisor	后视镜	Serie de movilización transporte y
+arrancar	启动	Serie de movilización transporte y
+freno de un vehículo	刹车	Serie de movilización transporte y
+aparcar	停车	Serie de movilización transporte y
+luces	灯光	Serie de movilización transporte y
+intermitente	方向指示灯	Serie de movilización transporte y
+faros	大灯	Serie de movilización transporte y
+cabina	驾驶室	Serie de movilización transporte y
+maleta	行李箱	Serie de movilización transporte y
+licencia de conducción	驾驶执照	Serie de movilización transporte y
+placa de matrícula	车号牌	Serie de movilización transporte y
+matrícula	车牌号	Serie de movilización transporte y
+adelantar a otro vehículo	超车	Serie de movilización transporte y
+parada de automóvil	汽车站	Serie de movilización transporte y
+parada	停车站	Serie de movilización transporte y
+velocímetro	速度表	Serie de movilización transporte y
+bajada de bandera	计程车起价费	Serie de movilización transporte y
+chofér	汽车司机	Serie de movilización transporte y
+cinturón de seguridad	保险带	Serie de movilización transporte y
+gasolina	汽油	Serie de movilización transporte y
+rueda	车胎	Serie de movilización transporte y
+tren	2、火车	Serie de movilización transporte y
+tren	火车	Serie de movilización transporte y
+estación	火车站	Serie de movilización transporte y
+andén	站台	Serie de movilización transporte y
+sala de espera	候车室	Serie de movilización transporte y
+despacho de billetes	售票处	Serie de movilización transporte y
+litera	铺位	Serie de movilización transporte y
+horario	时刻表	Serie de movilización transporte y
+ferrocarril	铁路	Serie de movilización transporte y
+tren lento	慢车	Serie de movilización transporte y
+tren rápido	快车	Serie de movilización transporte y
+coche cama	卧铺车	Serie de movilización transporte y
+coche restaurante	餐车	Serie de movilización transporte y
+tren directo	直达快车	Serie de movilización transporte y
+personal de sevicio en tren	乘务员	Serie de movilización transporte y
+habitación de servicio	值班室	Serie de movilización transporte y
+restaurante de estación	车站餐厅	Serie de movilización transporte y
+taquillero	售票员	Serie de movilización transporte y
+información	问讯处	Serie de movilización transporte y
+consigna para las maletas	小件行李寄存处	Serie de movilización transporte y
+policía de ferrocarriles	铁路警察	Serie de movilización transporte y
+cargo por expreso	包裹	Serie de movilización transporte y
+equipaje	行李	Serie de movilización transporte y
+empleado del despacho	行李员	Serie de movilización transporte y
+buzón de estación	车站信箱	Serie de movilización transporte y
+librería de estación	车站书报摊	Serie de movilización transporte y
+vagón	车厢	Serie de movilización transporte y
+retrete	厕所	Serie de movilización transporte y
+lavabo	洗浴室	Serie de movilización transporte y
+paso de vagón	车厢通道	Serie de movilización transporte y
+portaequipajes	行李架	Serie de movilización transporte y
+inspector	车站值班室	Serie de movilización transporte y
+asiento	座位	Serie de movilización transporte y
+pasajeros	旅客	Serie de movilización transporte y
+aviones	3、飞机	Serie de movilización transporte y
+avión	飞机	Serie de movilización transporte y
+compañia aérea	航空公司	Serie de movilización transporte y
+volar	飞行	Serie de movilización transporte y
+azafata	空姐	Serie de movilización transporte y
+auxiliar de vuelo	乘务员	Serie de movilización transporte y
+cabina de pasajeros	客舱	Serie de movilización transporte y
+despegue	起飞	Serie de movilización transporte y
+aterrizaje	着陆	Serie de movilización transporte y
+llegar tarde	晚点	Serie de movilización transporte y
+vuelo directo	直飞	Serie de movilización transporte y
+billete	机票	Serie de movilización transporte y
+embarque	登机	Serie de movilización transporte y
+trámite	手续	Serie de movilización transporte y
+tiempo	时间	Serie de movilización transporte y
+tarjeta de embarque	登机牌	Serie de movilización transporte y
+visa	签证	Serie de movilización transporte y
+pasaporte	护照	Serie de movilización transporte y
+línea aérea	航线	Serie de movilización transporte y
+muelle de embarque	登机走廊	Serie de movilización transporte y
+equipaje de mano	手提行李	Serie de movilización transporte y
+salidas	出境	Serie de movilización transporte y
+entrada	入口	Serie de movilización transporte y
+precio del billete	票价	Serie de movilización transporte y
+salida	出口	Serie de movilización transporte y
+documentación	证件	Serie de movilización transporte y
+aduana	海关	de movilización Serie transporte y
+pista de estacionamiento	停车坪	Serie de movilización transporte y
+helicóptero	直升飞机	Serie de movilización transporte y
+aerobús	空中客车	Serie de movilización transporte y
+aeropuerto	机场	Serie de movilización transporte y
+llegadas	入境	Serie de movilización transporte y
+hacer escala	转机	Serie de movilización transporte y
+viajero	旅行者	Serie de movilización transporte y
+equipaje	行李	Serie de movilización transporte y
+consigna de equipajes	行李存放处	Serie de movilización transporte y
+cabecera del muelle	登机门	Serie de movilización transporte y
+sala de espera	候机室	Serie de movilización transporte y
+tienda	免税商店	Serie de movilización transporte y
+Barco	4、船	Serie de movilización transporte y
+barco	船	Serie de movilización transporte y
+barca	小船	Serie de movilización transporte y
+balsa	木筏	Serie de movilización transporte y
+transbordador	渡轮	Serie de movilización transporte y
+buque mercantil	商船	Serie de movilización transporte y
+buque de carga	商船	Serie de movilización transporte y
+barco de pesca	渔船	Serie de movilización transporte y
+lancha	舰艇	Serie de movilización transporte y
+velero	帆船	Serie de movilización transporte y
+crucero	巡洋舰	Serie de movilización transporte y
+yate	游艇	Serie de movilización transporte y
+patrullero	巡逻艇	Serie de movilización transporte y
+cañonero	炮舰	Serie de movilización transporte y
+cubierta	甲板	Serie de movilización transporte y
+litera	仓位	Serie de movilización transporte y
+roda	船首	Serie de movilización transporte y
+popa	船尾	Serie de movilización transporte y
+remo	浆	Serie de movilización transporte y
+puerto	港口	Serie de movilización transporte y
+muelle	码头	Serie de movilización transporte y
+paso de aduanas	海关入口	Serie de movilización transporte y
+zona franca	港区	Serie de movilización transporte y
+oficina del puerto	海关管理机关	Serie de movilización transporte y
+carreteras y circulación	5、道路、交通	Serie de movilización transporte y
+crucero	十字路口	Serie de movilización transporte y
+esquina	拐角	Serie de movilización transporte y
+paso de peatones	人行横道	Serie de movilización transporte y
+paso elevado	过街天桥	Serie de movilización transporte y
+paso subterráneo	地下通道	Serie de movilización transporte y
+hora punta	高峰时间	Serie de movilización transporte y
+semáforos	红绿灯	Serie de movilización transporte y
+puente	桥	Serie de movilización transporte y
+tráfico	交通	Serie de movilización transporte y
+raya de parada	停车线	Serie de movilización transporte y
+señal de tráfico	交通标志	Serie de movilización transporte y
+curva a la derecha	右转弯	Serie de movilización transporte y
+vía de dirección única	单行道	Serie de movilización transporte y
+bifurcación	岔道	Serie de movilización transporte y
+refugio	安全岛	Serie de movilización transporte y
+vía pública	街道	Serie de movilización transporte y
+calle	路、街	Serie de movilización transporte y
+callejuela	胡同	Serie de movilización transporte y
+cruce	交叉	Serie de movilización transporte y
+dirección prohibida	禁止通行	Serie de movilización transporte y
+carreteras	道路	Serie de movilización transporte y
+calzada	车行道	Serie de movilización transporte y
+autopista	高速公路	Serie de movilización transporte y
+accidente	交通事故	Serie de movilización transporte y
+curva sin visibilidad	急弯	Serie de movilización transporte y
+prohibido dar la vuelta	禁止掉头	Serie de movilización transporte y
+paso a nivel	平交路口	Serie de movilización transporte y
+carretera nacional	国道	Serie de movilización transporte y
+gasolinera	加油站	Serie de movilización transporte y
+vehículos de transporte	6、其他交通工具	Serie de movilización transporte y
+metro	地铁	Serie de movilización transporte y
+línea de metro	地铁线	Serie de movilización transporte y
+bicicleta	自行车	Serie de movilización transporte y
+coche	马车	Serie de movilización transporte y
+berlina	有篷四轮马车	Serie de movilización transporte y
+cochero	马车夫	Serie de movilización transporte y
+montar en bicicleta	骑自行车	Serie de movilización transporte y
+manillar	车把	Serie de movilización transporte y
+faro	车灯	Serie de movilización transporte y
+pedalear	蹬车	Serie de movilización transporte y
+moto	摩托车	Serie de movilización transporte y
+escuelas y instalaciones de enseñanza	1、学校及教育设施	de enseñanza escuelas instalaciones y
+instrucción	教育	de enseñanza escuelas instalaciones y
+círculo infantil	幼儿园	de enseñanza escuelas instalaciones y
+escuela	学校	de enseñanza escuelas instalaciones y
+universidad	大学	de enseñanza escuelas instalaciones y
+escuela primaria	小学	de enseñanza escuelas instalaciones y
+escuela secundaria	中学	de enseñanza escuelas instalaciones y
+catedrático de universidad	讲师	de enseñanza escuelas instalaciones y
+magisterio	教师	de enseñanza escuelas instalaciones y
+catedrático	教授	de enseñanza escuelas instalaciones y
+instituto	学院	de enseñanza escuelas instalaciones y
+decano	教务长	de enseñanza escuelas instalaciones y
+maestro	小学教师	de enseñanza escuelas instalaciones y
+maestro  de escuela secundaria	中学教师	de enseñanza escuelas instalaciones y
+profesor	大学教师	de enseñanza escuelas instalaciones y
+doctor	博士	de enseñanza escuelas instalaciones y
+director	校长	de enseñanza escuelas instalaciones y
+residencia	公寓	de enseñanza escuelas instalaciones y
+biblioteca	图书馆	de enseñanza escuelas instalaciones y
+sala de lectura	阅览室	de enseñanza escuelas instalaciones y
+salón de actos	礼堂	de enseñanza escuelas instalaciones y
+aula	教室	de enseñanza escuelas instalaciones y
+sección de enseñanza e investigación	教研室	de enseñanza escuelas instalaciones y
+rector	大学校长	de enseñanza escuelas instalaciones y
+campo	操场	de enseñanza escuelas instalaciones y
+cátedra	讲台	de enseñanza escuelas instalaciones y
+alumno	学生	de enseñanza escuelas instalaciones y
+colegial	男生	de enseñanza escuelas instalaciones y
+oyente	旁听生	de enseñanza escuelas instalaciones y
+material escolar	2、学习用品	de enseñanza escuelas instalaciones y
+pizarra	黑板	de enseñanza escuelas instalaciones y
+mapa	地图	de enseñanza escuelas instalaciones y
+cartabón	三角板	de enseñanza escuelas instalaciones y
+esfera terrestre	地球仪	de enseñanza escuelas instalaciones y
+efectos de escritorio	文具	de enseñanza escuelas instalaciones y
+pincel	画笔	de enseñanza escuelas instalaciones y
+acuarela	水彩画	de enseñanza escuelas instalaciones y
+pupitre	课桌	de enseñanza escuelas instalaciones y
+libro de texto	课本	de enseñanza escuelas instalaciones y
+diccionario	词典	de enseñanza escuelas instalaciones y
+plumas	笔	de enseñanza escuelas instalaciones y
+tinta	墨水	de enseñanza escuelas instalaciones y
+cuaderno	练习本	de enseñanza escuelas instalaciones y
+libro	书	de enseñanza escuelas instalaciones y
+regla	尺子	de enseñanza escuelas instalaciones y
+tiza	粉笔	de enseñanza escuelas instalaciones y
+pluma	钢笔	de enseñanza escuelas instalaciones y
+cartera	书包	de enseñanza escuelas instalaciones y
+goma de borrar	橡皮	de enseñanza escuelas instalaciones y
+compas	圆规	de enseñanza escuelas instalaciones y
+esponja	黑板擦	de enseñanza escuelas instalaciones y
+tijeras	剪刀	de enseñanza escuelas instalaciones y
+La vida de éstudio	3、学习生活	de enseñanza escuelas instalaciones y
+estudiar	学习	de enseñanza escuelas instalaciones y
+ingresar en la primaria	入学	de enseñanza escuelas instalaciones y
+dar a conocer	通知单	de enseñanza escuelas instalaciones y
+iniciar las clases	开学	de enseñanza escuelas instalaciones y
+graduarse	毕业	de enseñanza escuelas instalaciones y
+terminar el estudio	结业	de enseñanza escuelas instalaciones y
+estudiar en el extranjero	留学	de enseñanza escuelas instalaciones y
+título	学位	de enseñanza escuelas instalaciones y
+alumno	学生	de enseñanza escuelas instalaciones y
+repetir curso	留级	de enseñanza escuelas instalaciones y
+texto	课文	de enseñanza escuelas instalaciones y
+examen	考试	de enseñanza escuelas instalaciones y
+faltar a clase	旷课	de enseñanza escuelas instalaciones y
+cometer abusos	作弊	de enseñanza escuelas instalaciones y
+éxito	成绩	de enseñanza escuelas instalaciones y
+abrir el libro	开卷	de enseñanza escuelas instalaciones y
+disciplina	纪律	de enseñanza escuelas instalaciones y
+gastos de estudio	学费	de enseñanza escuelas instalaciones y
+beca	奖学金	de enseñanza escuelas instalaciones y
+dar clase	上课	de enseñanza escuelas instalaciones y
+tarea	作业	de enseñanza escuelas instalaciones y
+ejercicio	练习	de enseñanza escuelas instalaciones y
+examen semestral	期末考试	de enseñanza escuelas instalaciones y
+examen oral	口试	de enseñanza escuelas instalaciones y
+lección	课	de enseñanza escuelas instalaciones y
+fuera de clase	课外	de enseñanza escuelas instalaciones y
+repasar	复习	de enseñanza escuelas instalaciones y
+examen escrito	笔试	de enseñanza escuelas instalaciones y
+hacer novillos	逃学	de enseñanza escuelas instalaciones y
+edad escolar	学龄	de enseñanza escuelas instalaciones y
+conocimiento	学问	de enseñanza escuelas instalaciones y
+saber	学问	de enseñanza escuelas instalaciones y
+ciencia	学术	de enseñanza escuelas instalaciones y
+escribir según normas ortográficas	拼写	de enseñanza escuelas instalaciones y
+dictado	听写	de enseñanza escuelas instalaciones y
+leer	阅读	de enseñanza escuelas instalaciones y
+lenguaje hablado	口语	de enseñanza escuelas instalaciones y
+gramática	语法	de enseñanza escuelas instalaciones y
+audición	听力	de enseñanza escuelas instalaciones y
+punto	句号	de enseñanza escuelas instalaciones y
+pronunciación	发音	de enseñanza escuelas instalaciones y
+número	数字	de enseñanza escuelas instalaciones y
+oración	句子	de enseñanza escuelas instalaciones y
+frase	句子	de enseñanza escuelas instalaciones y
+asignatura	4、科目	de enseñanza escuelas instalaciones y
+ciencia	科学	de enseñanza escuelas instalaciones y
+matemáticas	数学	de enseñanza escuelas instalaciones y
+inglés	英语	de enseñanza escuelas instalaciones y
+política	政治	de enseñanza escuelas instalaciones y
+lengua	语文	de enseñanza escuelas instalaciones y
+historia	历史	de enseñanza escuelas instalaciones y
+geografía	地理	de enseñanza escuelas instalaciones y
+filosofía	哲学	de enseñanza escuelas instalaciones y
+biología	生物	de enseñanza escuelas instalaciones y
+química	化学	de enseñanza escuelas instalaciones y
+física	物理学	de enseñanza escuelas instalaciones y
+música	音乐	de enseñanza escuelas instalaciones y
+educación física	体育	de enseñanza escuelas instalaciones y
+idiomas	5、语言	de enseñanza escuelas instalaciones y
+lengua china	汉语	de enseñanza escuelas instalaciones y
+japonés	日语	de enseñanza escuelas instalaciones y
+inglés	英语	de enseñanza escuelas instalaciones y
+ruso	俄语	de enseñanza escuelas instalaciones y
+alemán	德语	de enseñanza escuelas instalaciones y
+francés	法语	de enseñanza escuelas instalaciones y
+italiana	意大利语	de enseñanza escuelas instalaciones y
+lengua	语言	de enseñanza escuelas instalaciones y
+dialecto	方言	de enseñanza escuelas instalaciones y
+refrán	成语	de enseñanza escuelas instalaciones y
+proverbio	谚语	de enseñanza escuelas instalaciones y
+expresión popular	俗语	de enseñanza escuelas instalaciones y
+Cuerpo humano	1、人体器官	Cuerpo humano
+salud	身体	Cuerpo humano
+cuerpo	身体	Cuerpo humano
+vida	生命	Cuerpo humano
+pulmón	肺	Cuerpo humano
+tráquea	气管	Cuerpo humano
+amígdala	扁桃腺	Cuerpo humano
+intestinos	肠	Cuerpo humano
+estómago	胃	Cuerpo humano
+hígado	肝	Cuerpo humano
+ciego	盲肠	Cuerpo humano
+articulación	关节	Cuerpo humano
+cabeza	头	Cuerpo humano
+brazo	胳膊	Cuerpo humano
+pierna	腿	Cuerpo humano
+cuello	脖颈	Cuerpo humano
+hombro	肩膀	Cuerpo humano
+pecho	胸	Cuerpo humano
+abdomen	肚子	Cuerpo humano
+espalda	背	Cuerpo humano
+cintura	腰	Cuerpo humano
+nalgas	臀部	Cuerpo humano
+fosas nasales	鼻腔	Cuerpo humano
+ojos	眼睛	Cuerpo humano
+párpado	眼皮	Cuerpo humano
+pestaña	睫毛	Cuerpo humano
+ceja	眉毛	Cuerpo humano
+nariz	鼻子	Cuerpo humano
+boca	嘴巴	Cuerpo humano
+diente	牙	Cuerpo humano
+lengua	舌头	Cuerpo humano
+oreja	耳朵	Cuerpo humano
+membrana del tímpano	鼓膜	Cuerpo humano
+uña	指甲	Cuerpo humano
+vísceras	内脏	Cuerpo humano
+la frente	额头	Cuerpo humano
+mano	手	Cuerpo humano
+sien	太阳穴	Cuerpo humano
+mejilla	腮	Cuerpo humano
+globo del ojo	眼球	Cuerpo humano
+barbilla	下巴	Cuerpo humano
+garganta	喉咙	Cuerpo humano
+teta	乳房	Cuerpo humano
+corazón	心脏	Cuerpo humano
+rodilla	膝盖	Cuerpo humano
+pierna	脚	Cuerpo humano
+piel	皮肤	Cuerpo humano
+hueso	骨头	Cuerpo humano
+músculo	肌肉	Cuerpo humano
+esqueleto	骨骼	Cuerpo humano
+clavícula	锁骨	Cuerpo humano
+vaso sanguíneo	血管	Cuerpo humano
+arteria	动脉	Cuerpo humano
+vena	静脉	Cuerpo humano
+respirar	呼吸	Cuerpo humano
+riñón	肾脏	Cuerpo humano
+vejiga	膀胱	Cuerpo humano
+esperma	精子	Cuerpo humano
+óvulo	卵子	Cuerpo humano
+cerebro	脑	Cuerpo humano
+labio	唇	Cuerpo humano
+dolencias y enfermedades	2、疾病	Cuerpo humano
+dolencia	疾病	Cuerpo humano
+resfriado       catarro	感冒（伤风、着凉）	Cuerpo humano
+dolor de cabeza	头疼	Cuerpo humano
+dolor de diente	牙疼	Cuerpo humano
+dolor de abdomen	腹痛	Cuerpo humano
+enfermedad estomacal	胃病	Cuerpo humano
+enfermedad cardíaca	心脏病	Cuerpo humano
+intoxicación por la comida	食物中毒	Cuerpo humano
+diarrea	拉肚子	Cuerpo humano
+neuralgia	神经痛	Cuerpo humano
+anemia	贫血	Cuerpo humano
+alergia	过敏	Cuerpo humano
+neurastenia	神经衰弱	Cuerpo humano
+cancer	癌症	Cuerpo humano
+diabetes	糖尿病	Cuerpo humano
+tuberculosis	结核	Cuerpo humano
+artritis	关节炎	Cuerpo humano
+fractura	骨折	Cuerpo humano
+contusión	挫伤	Cuerpo humano
+disentería	痢疾	Cuerpo humano
+sabañón	冻疮	Cuerpo humano
+hemorroide	痔疮	Cuerpo humano
+pie de atleta	脚气 （运动员脚）	Cuerpo humano
+cólera	霍乱	Cuerpo humano
+angina de pecho	心绞痛	Cuerpo humano
+peste	传染病	Cuerpo humano
+virus	病毒	Cuerpo humano
+miopía	近视	Cuerpo humano
+hinchado	肿	Cuerpo humano
+parálisis	瘫痪	Cuerpo humano
+insolación	中暑	Cuerpo humano
+hipertensión	高血压	Cuerpo humano
+vomitar	呕吐（妊娠反应）	Cuerpo humano
+insomnia	失眠症	Cuerpo humano
+supuración	化脓	Cuerpo humano
+gripe	流感	Cuerpo humano
+faringitis	咽炎	Cuerpo humano
+pulmonía	肺炎	Cuerpo humano
+enfermedad en mujere	妇科病	Cuerpo humano
+enfermedad venérea	性病	Cuerpo humano
+herida	伤口	Cuerpo humano
+reúma	风湿病	Cuerpo humano
+herida leve	轻伤	Cuerpo humano
+dolor de riñones	腰疼	Cuerpo humano
+rabia	狂犬病	Cuerpo humano
+estar mareado	恶心	Cuerpo humano
+sarampión	麻疹	Cuerpo humano
+eczema	湿疹	Cuerpo humano
+tos	咳嗽	Cuerpo humano
+calentura	发烧	Cuerpo humano
+estornudo	喷嚏	Cuerpo humano
+moco	鼻涕	Cuerpo humano
+cáncer	癌	Cuerpo humano
+vértigo	眩晕	Cuerpo humano
+quemadura	烧伤	Cuerpo humano
+tumor	瘤	Cuerpo humano
+epidemia	流行病	Cuerpo humano
+diente con caries	龋齿	Cuerpo humano
+anemia	贫血	Cuerpo humano
+infección	感染	Cuerpo humano
+trombo	血栓	Cuerpo humano
+varicela	水痘	Cuerpo humano
+hemorragia cerebral	脑溢血	Cuerpo humano
+tener fiebre	发烧	Cuerpo humano
+leucemia	白血病	Cuerpo humano
+traqueitis	气管炎	Cuerpo humano
+apendicítis	阑尾炎	Cuerpo humano
+conciencia	知觉	Cuerpo humano
+desnutrición	营养不良	Cuerpo humano
+hospital	3、医院	Cuerpo humano
+hospital	医院	Cuerpo humano
+tratamiento médico	医疗	Cuerpo humano
+primeros auxilios	急救	Cuerpo humano
+médico	医生	Cuerpo humano
+enfermera	护士	Cuerpo humano
+paciente	病人	Cuerpo humano
+estar hospitalizado	住院	Cuerpo humano
+dejar el hospital	出院	Cuerpo humano
+primera consulta	初诊	Cuerpo humano
+nueva consulta	复诊	Cuerpo humano
+medicina interna	内科	Cuerpo humano
+cirugía	外科	Cuerpo humano
+oftalmología	眼科	Cuerpo humano
+ginecología y obstetricia	妇产科	Cuerpo humano
+ginecología	妇科	Cuerpo humano
+ortopedia	骨科	Cuerpo humano
+acupuntura	针灸	Cuerpo humano
+sala de espera	候诊室	Cuerpo humano
+sala de registro	挂号处	Cuerpo humano
+estomatología	口腔科	Cuerpo humano
+aparatos e instrumentos medicos y medicamentos	4、医疗器具、药品	Cuerpo humano
+camilla	担架	Cuerpo humano
+medicina	药	Cuerpo humano
+estoscopio	听诊器	Cuerpo humano
+termómetro	体温计	Cuerpo humano
+pinzas	镊子	Cuerpo humano
+venda de gasa	绷带	Cuerpo humano
+mascarilla	口罩	Cuerpo humano
+silla de ruedas	轮椅	Cuerpo humano
+bastón	拐杖	Cuerpo humano
+ventosa	火罐	Cuerpo humano
+cocimiento de ingredientes medicinales	汤药	Cuerpo humano
+medicina tradicional china	中药	Cuerpo humano
+ficha médica	病历卡	Cuerpo humano
+pomada	软药膏	Cuerpo humano
+medicina para uso externo	敷药	Cuerpo humano
+antipirético	退烧药	Cuerpo humano
+vacuna	疫苗	Cuerpo humano
+efecto secundario	副作用	Cuerpo humano
+supositorio	栓剂	Cuerpo humano
+anodino	止痛药	Cuerpo humano
+antibiótico	抗菌素	Cuerpo humano
+tensiómetro	血压器	Cuerpo humano
+electrocardiograma	心电图	Cuerpo humano
+cama de hospital	病床	Cuerpo humano
+frasco de infusión	输液瓶	Cuerpo humano
+cápsula	胶囊	Cuerpo humano
+tomar	服用	Cuerpo humano
+antes de comer	饭前	Cuerpo humano
+película	电影	cultura diversión vida y
+estudio	制片厂	cultura diversión vida y
+estreno	首映式	cultura diversión vida y
+distribuir	发行	cultura diversión vida y
+rodar	拍摄	cultura diversión vida y
+técnica especial	特技	cultura diversión vida y
+doblaje	配音	cultura diversión vida y
+escenario	场地	cultura diversión vida y
+apta para todos	不限年龄	cultura diversión vida y
+guión	编剧电影、剧本	cultura diversión vida y
+decorado	布景	cultura diversión vida y
+festival	电影节	cultura diversión vida y
+película	影片	cultura diversión vida y
+pantalla	银幕、放映幕	cultura diversión vida y
+primer plano	特写、近景	cultura diversión vida y
+cabina de toma	录音室	cultura diversión vida y
+dibujo animado	动画片	cultura diversión vida y
+cine mudo	无声电影	cultura diversión vida y
+película en color	彩色片	cultura diversión vida y
+doblado	译制片	cultura diversión vida y
+documental científico y educativo	科学教育片	cultura diversión vida y
+operador de cine	摄影师	cultura diversión vida y
+proyector	聚光灯	cultura diversión vida y
+ayudante del operador	摄影助理	cultura diversión vida y
+cine estereoscópico	立体电影	cultura diversión vida y
+subtítulo	字幕	cultura diversión vida y
+imagen	镜头	cultura diversión vida y
+actores	演员	cultura diversión vida y
+estrella	明星	cultura diversión vida y
+tragedia	悲剧	cultura diversión vida y
+película cómica	喜剧片	cultura diversión vida y
+intérprete principal	主角	cultura diversión vida y
+doble	替身演员	cultura diversión vida y
+papel secundario	配角	cultura diversión vida y
+extra	临时演员	cultura diversión vida y
+director cinematográfico	电影导演	cultura diversión vida y
+ayudante de dirección	助理导演	cultura diversión vida y
+director de doblaje	配音导演	cultura diversión vida y
+cameraman	摄影师	cultura diversión vida y
+cine	电影院	cultura diversión vida y
+entrada de cine	电影票	cultura diversión vida y
+asiento	座位	cultura diversión vida y
+cabina de proyección	放映室	cultura diversión vida y
+operador de proyección	放映员	cultura diversión vida y
+producción	制片	cultura diversión vida y
+maquillador	化妆师	cultura diversión vida y
+montaje	剪辑	cultura diversión vida y
+claquista	场记员	cultura diversión vida y
+actor principal	男主角	cultura diversión vida y
+atrezo	道具	cultura diversión vida y
+música y danza	2、音乐、舞蹈	cultura diversión vida y
+música	音乐	cultura diversión vida y
+música vocal	声乐	cultura diversión vida y
+canción	曲子	cultura diversión vida y
+ejecutar	演奏	cultura diversión vida y
+piano	钢琴	cultura diversión vida y
+guitarra	吉他	cultura diversión vida y
+flauta	笛子	cultura diversión vida y
+armónica	口琴	cultura diversión vida y
+violín	小提琴	cultura diversión vida y
+ópera de Beijing	京剧	cultura diversión vida y
+música ligera	轻音乐	cultura diversión vida y
+canción	歌曲	cultura diversión vida y
+banda	管弦乐队	cultura diversión vida y
+música orquesta	管弦乐	cultura diversión vida y
+sinfonía	交响乐	cultura diversión vida y
+orquesta	乐队	cultura diversión vida y
+dirigir	指挥	cultura diversión vida y
+cantata	大合唱	cultura diversión vida y
+ópera	歌剧	cultura diversión vida y
+canto tradicional	民歌	cultura diversión vida y
+escribir la letra de una canción	作词	cultura diversión vida y
+componer música	作曲	cultura diversión vida y
+armonio	风琴	cultura diversión vida y
+tambor	鼓	cultura diversión vida y
+trompeta	号	cultura diversión vida y
+castañuela	响板	cultura diversión vida y
+cántico	颂歌	cultura diversión vida y
+obertura	序曲	cultura diversión vida y
+canción de cuna	摇篮曲	cultura diversión vida y
+soliloquio cómico	独角戏	cultura diversión vida y
+solfear	视唱	cultura diversión vida y
+solo	独奏	cultura diversión vida y
+coral	合奏	cultura diversión vida y
+salmo	赞美诗	cultura diversión vida y
+cantar	独唱	cultura diversión vida y
+baile	舞蹈	cultura diversión vida y
+primera bailarina	芭蕾舞女主角	cultura diversión vida y
+ballet	芭蕾舞	cultura diversión vida y
+zapatilla de ballet	芭蕾舞鞋	cultura diversión vida y
+vestido de bailarina	芭蕾舞裙	cultura diversión vida y
+primer bailarín	芭蕾舞男主角	cultura diversión vida y
+sala de baile	舞厅	cultura diversión vida y
+pareja de baile	舞伴	cultura diversión vida y
+baile clásico	古典舞	cultura diversión vida y
+baile	舞	cultura diversión vida y
+baile	舞会	cultura diversión vida y
+artes	3、艺术	cultura diversión vida y
+artes	艺术	cultura diversión vida y
+obra	作品	cultura diversión vida y
+bellas artes	美术	cultura diversión vida y
+exponer	展览	cultura diversión vida y
+salón	沙龙	cultura diversión vida y
+autor	作者	cultura diversión vida y
+estilo	风格	cultura diversión vida y
+realismo	现实主义	cultura diversión vida y
+obra	著作	cultura diversión vida y
+clasicismo	古典主义	cultura diversión vida y
+poema	诗	cultura diversión vida y
+novela	小说	cultura diversión vida y
+crítico	批判家	cultura diversión vida y
+pintura	绘画	cultura diversión vida y
+pintura al fresco	壁画	cultura diversión vida y
+pintura al óleo	油画	cultura diversión vida y
+pintor	画家	cultura diversión vida y
+lavado	水墨画	cultura diversión vida y
+pincel	画笔	cultura diversión vida y
+marco	画框	cultura diversión vida y
+hacerse un retrato	画像	cultura diversión vida y
+lienzo	画布	cultura diversión vida y
+escultura	雕塑	cultura diversión vida y
+figura	塑像	cultura diversión vida y
+fotografiar	4、摄影	cultura diversión vida y
+fotografiar	摄影	cultura diversión vida y
+cámara fotográfica	照相机	cultura diversión vida y
+objetivo	镜头	cultura diversión vida y
+película	胶卷	cultura diversión vida y
+fotografía	照片	cultura diversión vida y
+contraluz	逆光	cultura diversión vida y
+exposición	曝光	cultura diversión vida y
+foco	焦点	cultura diversión vida y
+fotocopia	影印	cultura diversión vida y
+revelado	显影	cultura diversión vida y
+ampliar	放大	cultura diversión vida y
+placa	感光片	cultura diversión vida y
+cámara	摄像机	cultura diversión vida y
+diafragma	光圈	cultura diversión vida y
+diapositiva	幻灯片	cultura diversión vida y
+parasol	遮光罩	cultura diversión vida y
+luz de relámpago	闪光灯	cultura diversión vida y
+tripode	三脚架	cultura diversión vida y
+turismo	5、旅游	cultura diversión vida y
+turismo	旅游	cultura diversión vida y
+visitar	观光	cultura diversión vida y
+visitar	参观	cultura diversión vida y
+lugar pintoresco	名胜	cultura diversión vida y
+trayecto	旅行线路	cultura diversión vida y
+tiempo de reunión	集合时间	cultura diversión vida y
+billete	票	cultura diversión vida y
+gastos de viaje	旅费	cultura diversión vida y
+guía turística	导游	cultura diversión vida y
+turista	旅游者	cultura diversión vida y
+entrada	门票	cultura diversión vida y
+entrada gratis	免票	cultura diversión vida y
+aviación	航空	cultura diversión vida y
+viaje	旅行	cultura diversión vida y
+agencia de viajes	旅行社	cultura diversión vida y
+viaje de ida	单程旅行	cultura diversión vida y
+museo	博物馆	cultura diversión vida y
+itinerario	旅行指南	cultura diversión vida y
+etapa	停歇点、中间站	cultura diversión vida y
+billete de ida	单程票	cultura diversión vida y
+galería	美术馆	cultura diversión vida y
+parque zoológico	动物园	cultura diversión vida y
+iglesia	教堂	cultura diversión vida y
+billete de ida y vuelta	往返票、双程票	cultura diversión vida y
+parque	公园	cultura diversión vida y
+templo	庙宇、神殿	cultura diversión vida y
+Palacio Real	王宫	cultura diversión vida y
+plaza	广场	cultura diversión vida y
+pasaporte	护照	cultura diversión vida y
+mareo	晕机	cultura diversión vida y
+vuelo	直飞	cultura diversión vida y
+equipaje	行李	cultura diversión vida y
+eximir los impuestos	免税	cultura diversión vida y
+ir en barco	乘船	cultura diversión vida y
+ir en tren	乘火车	cultura diversión vida y
+por avión	乘飞机	cultura diversión vida y
+documentación	证件	cultura diversión vida y
+alojamiento	6、住宿	cultura diversión vida y
+hotel	旅馆、饭店	cultura diversión vida y
+hostal	旅馆	cultura diversión vida y
+motel	汽车旅馆	cultura diversión vida y
+habitación individual	单人房间	cultura diversión vida y
+habitación doble	双人间	cultura diversión vida y
+hospedarse	住宿	cultura diversión vida y
+llave de habitación	房间钥匙	cultura diversión vida y
+recibir	接待	cultura diversión vida y
+ficha de hotel	登记表、卡	cultura diversión vida y
+camarero	服务员	cultura diversión vida y
+factura	账单	cultura diversión vida y
+inscribirse	登记	cultura diversión vida y
+tarjeta de crédito	信用卡	cultura diversión vida y
+reservar	预订	cultura diversión vida y
+depósito	押金	cultura diversión vida y
+cambiar	兑换	cultura diversión vida y
+cuenta	结账	cultura diversión vida y
+comedor	餐厅	cultura diversión vida y
+recepción	前厅	cultura diversión vida y
+huésped del hotel	旅客	cultura diversión vida y
+bar del hotel	旅馆酒吧	cultura diversión vida y
+banda	乐队	cultura diversión vida y
+precio de habitación	房价	cultura diversión vida y
+teléfono	电话	cultura diversión vida y
+baúl armario	衣柜	cultura diversión vida y
+pagar con anticipación	预付	cultura diversión vida y
+apartamento	套件	cultura diversión vida y
+centro comercial	商务中心	cultura diversión vida y
+lavar	洗衣	cultura diversión vida y
+recepción	接待厅	cultura diversión vida y
+cafetería	咖啡厅	cultura diversión vida y
+ascensor	电梯	cultura diversión vida y
+guardarropa	衣帽间	cultura diversión vida y
+salón de banquetes	宴会厅	cultura diversión vida y
+maletero	行李员	cultura diversión vida y
+dejar la habitación	退房	cultura diversión vida y
+depositar	寄存	cultura diversión vida y
+documentación	证件	cultura diversión vida y
+deporte	7、运动	cultura diversión vida y
+deporte	运动	cultura diversión vida y
+fútbol	足球	cultura diversión vida y
+terreno	场地	cultura diversión vida y
+monitor	教练	cultura diversión vida y
+jugador,ra	运动员	cultura diversión vida y
+juzgar	裁判	cultura diversión vida y
+campo y pista	田径	cultura diversión vida y
+correr	跑	cultura diversión vida y
+carrera de fondo	长跑	cultura diversión vida y
+salto de longitud	跳远	cultura diversión vida y
+salto de altura	跳高	cultura diversión vida y
+ajedrez chino	象棋	cultura diversión vida y
+salto con pértiga	撑杆跳	cultura diversión vida y
+lanzamiento	投掷	cultura diversión vida y
+lanzamiento de disco	掷铁饼	cultura diversión vida y
+peso	铅球	cultura diversión vida y
+marcha	竞走	cultura diversión vida y
+carrera de vallas	跨栏	cultura diversión vida y
+maratón	马拉松	cultura diversión vida y
+gimnasia	体操	cultura diversión vida y
+barra fija	单杠	cultura diversión vida y
+paralelas	双杠	cultura diversión vida y
+anillas	吊环	cultura diversión vida y
+caballo de aros	鞍马	cultura diversión vida y
+pesas	哑铃、杠铃	cultura diversión vida y
+halterofilia	举重	cultura diversión vida y
+lucha	摔跤	cultura diversión vida y
+judo	柔道	cultura diversión vida y
+baloncesto	篮球	cultura diversión vida y
+boxeo	拳击	cultura diversión vida y
+esgrima	击剑	cultura diversión vida y
+esqui	滑雪、滑雪板	cultura diversión vida y
+patinar	滑冰	cultura diversión vida y
+ping-pong	乒乓球	cultura diversión vida y
+balonmano	手球	cultura diversión vida y
+béisbol	垒球	cultura diversión vida y
+patinaje sobre ruedas	滑旱冰	cultura diversión vida y
+karate	空手道	cultura diversión vida y
+hockey	曲棍球	cultura diversión vida y
+hockey sobre hielo	冰球	cultura diversión vida y
+patines de cuchilla	冰刀鞋、滑冰鞋	cultura diversión vida y
+balonbolea	排球运动	cultura diversión vida y
+carrera de fondo	越野滑雪	cultura diversión vida y
+saltar a la comba	跳绳	cultura diversión vida y
+balón	橄榄球	cultura diversión vida y
+bolera	保龄球	cultura diversión vida y
+pelota de béisbol	棒球	cultura diversión vida y
+billar	台球	cultura diversión vida y
+equitación	马术	cultura diversión vida y
+regata	赛艇	cultura diversión vida y
+balón de waterpolo	水球	cultura diversión vida y
+velero	帆船	cultura diversión vida y
+natación	游泳	cultura diversión vida y
+saltos	跳水	cultura diversión vida y
+golf	高尔夫	cultura diversión vida y
+hipica	赛马	cultura diversión vida y
+servicio de balonvolea	发球	cultura diversión vida y
+windsurfing	帆板	cultura diversión vida y
+vuelo sin motor	滑翔运动	cultura diversión vida y
+aficionado	业余运动员	cultura diversión vida y
+salida	起跑	cultura diversión vida y
+disparar	射击	cultura diversión vida y
+blanco	靶子	cultura diversión vida y
+ciclismo	自行车赛	cultura diversión vida y
+volante	羽毛球	cultura diversión vida y
+coche de carreras	赛车	cultura diversión vida y
+calistenia	健美操	cultura diversión vida y
+deportes aéreos	航空运动	cultura diversión vida y
+motorismo	摩托车运动	cultura diversión vida y
+red	球网	cultura diversión vida y
+juegos deportivos	运动会	cultura diversión vida y
+deportes de invierno	冬季运动	cultura diversión vida y
+crol	自由泳	cultura diversión vida y
+estilo mariposa	蝶泳	cultura diversión vida y
+natación	蛙泳	cultura diversión vida y
+campeonato	锦标赛、冠军赛	cultura diversión vida y
+récord	记录	cultura diversión vida y
+boxeo	拳击	cultura diversión vida y
+copa	奖杯	cultura diversión vida y
+competir	竞赛	cultura diversión vida y
+final	决赛	cultura diversión vida y
+campeón	冠军	cultura diversión vida y
+diversiones espectáculos	8、娱乐	cultura diversión vida y
+corrida de toros	斗牛	cultura diversión vida y
+pescar con caña	钓鱼	cultura diversión vida y
+parque zoológico	动物园	cultura diversión vida y
+nadar	游泳	cultura diversión vida y
+ajedrez	象棋	cultura diversión vida y
+wei qi	围棋	cultura diversión vida y
+naipe francés	扑克牌	cultura diversión vida y
+dominó chino	麻将	cultura diversión vida y
+juego del halma	跳棋	cultura diversión vida y
+distracción	娱乐	cultura diversión vida y
+leer	读书	cultura diversión vida y
+alpinismo	登山运动	cultura diversión vida y
+talla	雕刻	cultura diversión vida y
+caligrafía	书法	cultura diversión vida y
+pintura	绘画	cultura diversión vida y
+cultivar flores	养花	cultura diversión vida y
+artesanía	手工艺	cultura diversión vida y
+artes	艺术	cultura diversión vida y
+variedades	杂耍	cultura diversión vida y
+club nocturno	夜总会	cultura diversión vida y
+columpio	秋千	cultura diversión vida y
+excursión	郊游	cultura diversión vida y
+fuegos artificiales	焰火	cultura diversión vida y
+carroza	彩车	cultura diversión vida y
+papel	纸	cultura diversión vida y
+dar un paseo	散步	cultura diversión vida y
+barca de remo	小筏子	cultura diversión vida y
+acrobacia	杂技	cultura diversión vida y
+equitación	马术	cultura diversión vida y
+prestidigitación	魔术	cultura diversión vida y
+carnaval	狂欢节	cultura diversión vida y
+Flores y Plantas	1、花卉	Flores Plantas cultura diversión vida y
+jazmín de invierno	迎春花 茉莉	Flores Plantas cultura diversión vida y
+azalea	杜鹃花<img src='xin_170403051630303177152.jpg'/>	cultura diversión Flores Plantas vida y
+rosa	玫瑰花	Flores Plantas cultura diversión vida y
+crisantemo	菊花<img src='juhua3.jpg'/>	cultura diversión Flores Plantas vida y
+flor de ciruelo	梅花<img src='2256386_222258024_2.jpg'/>	Flores Plantas y
+acebo	冬青<img src='wKgAFFI2vTeAXQARAAMcjw7XObw084.jpg'/>	Flores Plantas y
+clavel	康乃馨<img src='15962.jpg'/>	Flores Plantas y
+peonía	牡丹花<img src='6647776_205232224000_2.jpg'/>	Flores Plantas y
+amapola	虞美人	Flores Plantas y
+flor de cerezo	樱花	Flores Plantas y
+lila	紫丁香<img src='u=3575274240,810175526&fm=206&gp=0.jpg'/>	Flores Plantas y
+camelia	茶花<img src='8S17167YFC68.jpg'/>	Flores Plantas y
+almizcle	麝香<img src='2013032608421029331978.JPG'/>	Flores Plantas y
+girasol	向日葵	Flores Plantas y
+nardo	晚香玉<img src='886-150513155A6.jpg'/>	Flores Plantas y
+narciso	水仙	Flores Plantas y
+lirio	百合花<img src='1-15040912534b62.jpg'/>	Flores Plantas y
+rosa india	月季花<img src='9c16fdfaaf51f3dec7ba908f96eef01f3b2979d4.jpg'/>	Flores Plantas y
+rosa china		Flores Plantas y
+capullo	花蕾	Flores Plantas y
+orquídea	兰花	Flores Plantas y
+cizaña	野燕麦<img src='zyysjc：cjzcyzyym.jpg'/>	Flores Plantas y
+joyo	野燕麦<img src='zyysjc：cjzcyzyym.jpg'/>	Flores Plantas y
+tulipán	郁金香	Flores Plantas y
+cactus	仙人掌	Flores Plantas y
+jacinto	风信子花<img src='11311809_110005551165_2.jpg'/>	Flores Plantas y
+cardo	刺菜薊<img src='1f178a82b9014a9059cb2629a9773912b21beea9.jpg'/>	Flores Plantas y
+anémona	银莲花<img src='0824ab18972bd407dc781e457b899e510eb309cf.jpg'/>	Flores Plantas y
+alhelí	紫罗兰<img src='20144151631184427981.jpg'/>	Flores Plantas y
+petunia	喇叭花、牵牛花<img src='82.jpg'/>	Flores Plantas y
+maya	雏菊<img src='00E58PICNd9_1024.jpg'/>	Flores Plantas y
+margarita	雏菊	Flores Plantas y
+mimosa	含羞草	Flores Plantas y
+geranio	天竺葵	Flores Plantas y
+ciclamen	仙客来<img src='7960243_101917457169_2.jpg'/>	Flores Plantas y
+clivia	君子兰	Flores Plantas y
+begonia	秋海棠<img src='01300001214823130473874676004.jpg'/>	Flores Plantas y
+sábila	芦荟	Flores Plantas y
+margarita menor	雏菊<img src='00E58PICNd9_1024.jpg'/>	Flores Plantas y
+magnolia roja	红木兰<img src='g0_13314967.jpg'/>	Flores Plantas y
+Árboles	2、树木	Flores Plantas y
+árbol	树	Flores Plantas y
+álamo	白杨<img src='2563541_170638227103_2.jpg'/>	Flores Plantas y
+haya	山毛榉<img src='242dd42a2834349bf69b06bdcbea15ce36d3be6d.jpg'/>	Flores Plantas y
+pino	松树	Flores Plantas y
+árbol de gingko	银杏树	Flores Plantas y
+peral	梨树	Flores Plantas y
+olmo	榆树	Flores Plantas y
+negrillo	榆树	Flores Plantas y
+roble	橡树<img src='20120113111139.jpg'/>	Flores Plantas y
+abedul	桦树<img src='d1160924ab18972be8af91c4e6cd7b899e510a22.jpg'/>	Flores Plantas y
+adelfa	夹竹桃	Flores Plantas y
+laurel rosa	夹竹桃<img src='2450814_162843680198_2.jpg'/>	Flores Plantas y
+sauce llorón	垂柳	Flores Plantas y
+árbol de tung	桐树	Flores Plantas y
+ciprés	柏树<img src='67.jpg'/>	Flores Plantas y
+bambú	竹子	Flores Plantas y
+alcanforero	樟树<img src='574e9258d109b3ded9f2b12acdbf6c81800a4c26.jpg'/>	Flores Plantas y
+betel	槟榔树<img src='1276770494376909661.jpg'/>	Flores Plantas y
+árboles de hoja caduca	阔叶树	Flores Plantas y
+árbole caducifolio	阔叶树	Flores Plantas y
+coníferas	针叶树	Flores Plantas y
+tronco	树干	Flores Plantas y
+hojas caídas	落叶	Flores Plantas y
+corteza	树皮	Flores Plantas y
+raíz	树根	Flores Plantas y
+plantón	芽、苗	Flores Plantas y
+retoño	芽	Flores Plantas y
+cima de árbol	树梢	Flores Plantas y
+fruto	果实	Flores Plantas y
+polen	花粉	Flores Plantas y
+cerezo	樱桃树	Flores Plantas y
+melocotonero	桃树	Flores Plantas y
+albaricoquero	杏树	Flores Plantas y
+flor	花	Flores Plantas y
+capullo	花蕾	Flores Plantas y
+semilla	种子	Flores Plantas y
+árbol de té	茶树	Flores Plantas y
+pimentero	胡椒树	Flores Plantas y
+pimiento	胡椒树	Flores Plantas y
+falsa acacia	洋槐树<img src='1655635813112133367.jpg'/>	Flores Plantas y
+plantón de naranjo	柑橘树	Flores Plantas y
+Aves	3、鸟类	Flores Plantas y
+avestruz	鸵鸟	Flores Plantas y
+canario	金丝雀<img src='0b46f21fbe096b63e05a472808338744ebf8ac02.jpg'/>	Flores Plantas y
+papagayo	鹦鹉	Flores Plantas y
+loro	鹦鹉	Flores Plantas y
+gaviota	海鸥	Flores Plantas y
+estornino	八哥	Flores Plantas y
+cuclillo	杜鹃布谷鸟<img src='224705tmxd2dodq8sem8de.jpg'/>	Flores Plantas y
+cuco	布谷鸟	Flores Plantas y
+oropéndola	黄莺<img src='094734kgsmvg0mqb5bgwwg.jpg'/> <br>péndola钟摆	Flores Plantas y
+paloma	鸽子	Flores Plantas y
+cuervo	乌鸦	Flores Plantas y
+gorrión	麻雀	Flores Plantas y
+urraca	喜鹊<img src='u=3431365951,2306725722&fm=21&gp=0.jpg'/>	Flores Plantas y
+picaraza	喜鹊<img src='u=3431365951,2306725722&fm=21&gp=0.jpg'/>	Flores Plantas y
+azor	苍鹰	Flores Plantas y
+golondrina	燕子	Flores Plantas y
+ganso	雁	Flores Plantas y
+pavo real	孔雀	Flores Plantas y
+alondra	云雀<img src='377adab44aed2e73e9d61d668701a18b87d6fab9.jpg'/>	Flores Plantas y
+ruiseñor	夜莺	Flores Plantas y
+águila	鹰	Flores Plantas y
+cisne	天鹅	Flores Plantas y
+aves	鸟	Flores Plantas y
+codorniz	鹌鹑	Flores Plantas y
+pollo	鸡	Flores Plantas y
+oca	鹅	Flores Plantas y
+ánsar	鹅	Flores Plantas y
+gallo	公鸡	Flores Plantas y
+gallina	母鸡	Flores Plantas y
+pato	鸭	Flores Plantas y
+pelicano	鹈鹕	Flores Plantas y
+platalea	鹈鹕	Flores Plantas y
+paloma	鸽	Flores Plantas y
+pichón	雏鸽	Flores Plantas y
+Insectos	4、昆虫	Flores Plantas y
+luciérnaga	萤火虫	Flores Plantas y
+lucerna	萤火虫	Flores Plantas y
+cocuyo	萤火虫	Flores Plantas y
+saltamontes	蚱蜢	Flores Plantas y
+pulga	跳蚤	Flores Plantas y
+saltamontes de largos cuernos	蝈蝈<img src='048c92a0b7e2d142769b741152c1dce0_b.jpg'/>	Flores Plantas y
+ciempiés	蜈蚣	Flores Plantas y
+escolopendra	蜈蚣	Flores Plantas y
+araña	蜘蛛	Flores Plantas y
+cucaracha	蟑螂	Flores Plantas y
+mosca	苍蝇	Flores Plantas y
+caracol	蜗牛	Flores Plantas y
+lombriz	蚯蚓	Flores Plantas y
+mosquito	蚊子	Flores Plantas y
+mariposa	蛾	Flores Plantas y
+hormiga	蚂蚁	Flores Plantas y
+avispa	黄蜂胡蜂	Flores Plantas y
+oruga	毛虫	Flores Plantas y
+mariposa	蝴蝶	Flores Plantas y
+libélula	蜻蜓	Flores Plantas y
+abeja	蜜蜂	Flores Plantas y
+grillo	蟋蟀	Flores Plantas y
+alacrán	蝎子	Flores Plantas y
+escorpión	蝎子	Flores Plantas y
+salamanquesa	壁虎	Flores Plantas y
+mariquita	瓢虫	Flores Plantas y
+lagarto	蜥蜴	Flores Plantas y
+rana	青蛙	Flores Plantas y
+sapo	蟾蜍	Flores Plantas y
+Mamíferos	5、哺乳动物	Flores Plantas y
+caballo	马	Flores Plantas y
+gato	猫	Flores Plantas y
+pollo	鸡	Flores Plantas y
+perro	狗	Flores Plantas y
+conejo	兔子	Flores Plantas y
+liebre	兔子	Flores Plantas y
+buey	牛	Flores Plantas y
+toro	公牛	Flores Plantas y
+oso panda	熊猫	Flores Plantas y
+mono	猴	Flores Plantas y
+leopardo	豹子	Flores Plantas y
+orangután	猩猩	Flores Plantas y
+gibón	长臂猿	Flores Plantas y
+tigre	老虎	Flores Plantas y
+león	狮子	Flores Plantas y
+cebra	斑马	Flores Plantas y
+ardilla	松鼠	Flores Plantas y
+canguro	袋鼠	Flores Plantas y
+oso	熊	Flores Plantas y
+elefante	大象	Flores Plantas y
+búfalo	水牛	Flores Plantas y
+ciervo	鹿	Flores Plantas y
+asno	驴	Flores Plantas y
+burro	驴	Flores Plantas y
+mulo	骡子	Flores Plantas y
+zorro	狐狸	Flores Plantas y
+rata	老鼠	Flores Plantas y
+ratón	老鼠	Flores Plantas y
+antílope	羚羊	Flores Plantas y
+cerdo	猪	Flores Plantas y
+puerco	猪	Flores Plantas y
+chancho	猪	Flores Plantas y
+ovino	羊	Flores Plantas y
+erizo	刺猬	Flores Plantas y
+lobo	狼	Flores Plantas y
+gorila	大猩猩	Flores Plantas y
+camello	骆驼	Flores Plantas y
+Animales acuáticos	6、水中动物	Flores Plantas y
+tortuga	乌龟	Flores Plantas y
+pez dorado	金鱼	Flores Plantas y
+pez	鱼	Flores Plantas y
+anguila	鳗鱼	Flores Plantas y
+tiburón	鲨鱼	Flores Plantas y
+ballena	鲸鱼	Flores Plantas y
+delfín	海豚	Flores Plantas y
+oso marino	海狗	Flores Plantas y
+cangrejo	螃蟹	Flores Plantas y
+morsa	海象	Flores Plantas y
+elefante marino	海象	Flores Plantas y
+ostra	牡蛎	Flores Plantas y
+pulpo	章鱼	Flores Plantas y
+langosta	龙虾	Flores Plantas y
+gamba	对虾	Flores Plantas y
+vieira	扇贝	Flores Plantas y
+jibia	乌贼	Flores Plantas y
+calamar	鱿鱼	Flores Plantas y
+trucha	鳟鱼	Flores Plantas y
+Fenómeno de natulareza	7、自然现象	Flores Plantas y
+tiempo	天气	Flores Plantas y
+clima	气候	Flores Plantas y
+medio ambiente	环境	Flores Plantas y
+cuatro estaciones del año	四季	Flores Plantas y
+primavera	春	Flores Plantas y
+verano	夏	Flores Plantas y
+otoño	秋	Flores Plantas y
+invierno	冬	Flores Plantas y
+sol	太阳	Flores Plantas y
+luna	月亮	Flores Plantas y
+estrella	星星	Flores Plantas y
+astro	星，天体	Flores Plantas y
+Vía Láctea	银河	Flores Plantas y
+cielo	天空	Flores Plantas y
+nube	云	Flores Plantas y
+lluvia	雨	Flores Plantas y
+nieve	雪	Flores Plantas y
+aguacero	暴雨	Flores Plantas y
+chaparrón	暴雨	Flores Plantas y
+chubasco	暴雨	Flores Plantas y
+viento	风	Flores Plantas y
+sescarcha	霜	Flores Plantas y
+relámpago	闪电	Flores Plantas y
+trueno	雷	Flores Plantas y
+granizo	冰雹	Flores Plantas y
+tempestad	风暴	Flores Plantas y
+tormenta	风暴	Flores Plantas y
+huracán	飓风	Flores Plantas y
+tempestad de arena	沙尘暴	Flores Plantas y
+tifón	台风	Flores Plantas y
+helada	冰冻	Flores Plantas y
+rocío	露水	Flores Plantas y
+estrella fugaz	流星	Flores Plantas y
+meteoro	流星 气象	Flores Plantas y
+universo	宇宙	Flores Plantas y
+cosmos	宇宙	Flores Plantas y
+meteoro	气象	Flores Plantas y
+mapa climático	气候图	Flores Plantas y
+temperatura	气温	Flores Plantas y
+bajo cero	零下	Flores Plantas y
+fuerza del viento	风力	Flores Plantas y
+energía del viento		Flores Plantas y
+humedad	温度	Flores Plantas y
+presión atmosférica	气压	Flores Plantas y
+diferencia en temperatura	温差	Flores Plantas y
+variedad de temperatura	温差	Flores Plantas y
+cero	零度	Flores Plantas y
+temporada de lluvia	雨季	Flores Plantas y
+estación de lluvias	雨季	Flores Plantas y
+relámpago	闪电	Flores Plantas y
+inundación	洪水	Flores Plantas y
+seco	干旱	Flores Plantas y
+árido	干旱	Flores Plantas y
+sequía	干旱	Flores Plantas y
+clima ecuatorial	赤道气候	Flores Plantas y
+tornado	龙卷风	Flores Plantas y
+terremoto	地震	Flores Plantas y
+seismo	地震	Flores Plantas y
+tempestad	雷雨	Flores Plantas y
+monzón	季风	Flores Plantas y
+Topografía y condiciones geográficas	8、地形、地理环境	Flores Plantas y
+continente	大陆	Flores Plantas y
+mar	海	Flores Plantas y
+glaciar	冰川	Flores Plantas y
+tierra	陆地	Flores Plantas y
+tierra firme	大陆	Flores Plantas y
+montaña	山	Flores Plantas y
+volcán	火山	Flores Plantas y
+cráter volcánico	火山口	Flores Plantas y
+bosque	森林	Flores Plantas y
+cascada	瀑布	Flores Plantas y
+piedra	石头	Flores Plantas y
+roca		Flores Plantas y
+arena	沙子	Flores Plantas y
+desierto	沙漠	Flores Plantas y
+río	江	Flores Plantas y
+cuenca	河谷	Flores Plantas y
+valle	山谷	Flores Plantas y
+cordillera	岭	Flores Plantas y
+sierra	岭	Flores Plantas y
+meseta	高原	Flores Plantas y
+cuenca	盆地	Flores Plantas y
+planicie	平原	Flores Plantas y
+llanura	平原	Flores Plantas y
+roca	岩石	Flores Plantas y
+lago	湖	Flores Plantas y
+isla	岛	Flores Plantas y
+orilla	岸	Flores Plantas y
+Contaminación ambiental	9、环境污染	Flores Plantas y
+aire residual	废气	Flores Plantas y
+gas de escape	废气	Flores Plantas y
+contaminación	污染	Flores Plantas y
+freón	氟利昂	Flores Plantas y
+bióxido carbónico	二氧化碳	Flores Plantas y
+ozono	臭氧	Flores Plantas y
+invernadero	温室	Flores Plantas y
+calentamiento global	地球温暖化	Flores Plantas y
+lluvia ácida	酸雨	Flores Plantas y
+desecho	废弃物	Flores Plantas y
+agua desechada industrial	工业废水	Flores Plantas y
+basura industrial	产业垃圾	Flores Plantas y
+zonas verdes	绿化带	Flores Plantas y
+ecosistema	生态系统	Flores Plantas y
+ruido	噪音	Flores Plantas y
+daño público	公害	Flores Plantas y
+Psicologica	1、心理	Sentimientos Serie de parablas sobre vida y
+carácter	性格	Sentimientos Serie de parablas sobre vida y
+introversión	内向	Sentimientos Serie de parablas sobre vida y
+carácter	性子	Sentimientos Serie de parablas sobre vida y
+pena	遗憾	Sentimientos Serie de parablas sobre vida y
+voz del corazón	心声	Sentimientos Serie de parablas sobre vida y
+impetuoso	性急	Sentimientos Serie de parablas sobre vida y
+precipitado	性急	Sentimientos Serie de parablas sobre vida y
+triste	伤心	Sentimientos Serie de parablas sobre vida y
+vivir con dificultad	难过	Sentimientos Serie de parablas sobre vida y
+simpatizar	同情	Sentimientos Serie de parablas sobre vida y
+tener miedo	害怕	Sentimientos Serie de parablas sobre vida y
+agudo	敏锐	Sentimientos Serie de parablas sobre vida y
+afable	随和	Sentimientos Serie de parablas sobre vida y
+amable	随和	Sentimientos Serie de parablas sobre vida y
+travieso	淘气	Sentimientos Serie de parablas sobre vida y
+valiente	勇敢	Sentimientos Serie de parablas sobre vida y
+perspicaz	精明	Sentimientos Serie de parablas sobre vida y
+honesto	诚实	Sentimientos Serie de parablas sobre vida y
+honrado	诚实	Sentimientos Serie de parablas sobre vida y
+abierto	开朗	Sentimientos Serie de parablas sobre vida y
+optimista	开朗	Sentimientos Serie de parablas sobre vida y
+sentir cariño	心疼	Sentimientos Serie de parablas sobre vida y
+vivo	活泼	Sentimientos Serie de parablas sobre vida y
+vivaz	活泼	Sentimientos Serie de parablas sobre vida y
+franco	爽快	Sentimientos Serie de parablas sobre vida y
+sincero	爽快	Sentimientos Serie de parablas sobre vida y
+humorístico	幽默	Sentimientos Serie de parablas sobre vida y
+moderado	温和	Sentimientos Serie de parablas sobre vida y
+franco y abierto	爽朗	Sentimientos Serie de parablas sobre vida y
+tener satisfechos sus deseos	顺心	Sentimientos Serie de parablas sobre vida y
+inteligente	聪明	Sentimientos Serie de parablas sobre vida y
+capaz	能干	Sentimientos Serie de parablas sobre vida y
+manso	温顺	Sentimientos Serie de parablas sobre vida y
+intención	心眼儿	Sentimientos Serie de parablas sobre vida y
+egoísta	自私	Sentimientos Serie de parablas sobre vida y
+descortés	无礼	Sentimientos Serie de parablas sobre vida y
+inpertinente	无礼	Sentimientos Serie de parablas sobre vida y
+astuto	狡猾	Sentimientos Serie de parablas sobre vida y
+desvergonzado	赖皮	Sentimientos Serie de parablas sobre vida y
+tonto	傻	Sentimientos Serie de parablas sobre vida y
+severo	厉害	Sentimientos Serie de parablas sobre vida y
+insoportable	难以忍受	Sentimientos Serie de parablas sobre vida y
+terco	固执	Sentimientos Serie de parablas sobre vida y
+pertinaz	固执	Sentimientos Serie de parablas sobre vida y
+incómodo	别扭	Sentimientos Serie de parablas sobre vida y
+embarazoso	别扭	Sentimientos Serie de parablas sobre vida y
+tonto	笨	Sentimientos Serie de parablas sobre vida y
+sentimiento	感情	Sentimientos Serie de parablas sobre vida y
+felicidad	幸福	Sentimientos Serie de parablas sobre vida y
+contento	高兴	Sentimientos Serie de parablas sobre vida y
+alegre		Sentimientos Serie de parablas sobre vida y
+complacido	痛快	Sentimientos Serie de parablas sobre vida y
+satisfecho	满足	Sentimientos Serie de parablas sobre vida y
+cómodo	舒服	Sentimientos Serie de parablas sobre vida y
+suficiente	足够	Sentimientos Serie de parablas sobre vida y
+tranquilizarse	放心	Sentimientos Serie de parablas sobre vida y
+suave	轻松	Sentimientos Serie de parablas sobre vida y
+gustar	喜欢	Sentimientos Serie de parablas sobre vida y
+aficionarse	爱	Sentimientos Serie de parablas sobre vida y
+fastidioso	讨厌	Sentimientos Serie de parablas sobre vida y
+queja	怨言	Sentimientos Serie de parablas sobre vida y
+rencor	怨气	Sentimientos Serie de parablas sobre vida y
+desdeñoso	轻蔑	Sentimientos Serie de parablas sobre vida y
+estar impaciente	烦躁	Sentimientos Serie de parablas sobre vida y
+ofenderse	生气	Sentimientos Serie de parablas sobre vida y
+reñir	吵架	Sentimientos Serie de parablas sobre vida y
+embarazoso	为难	Sentimientos Serie de parablas sobre vida y
+angustia	痛苦	Sentimientos Serie de parablas sobre vida y
+intranquilo	不安	Sentimientos Serie de parablas sobre vida y
+inquieto	不安	Sentimientos Serie de parablas sobre vida y
+preocuparse	担心	Sentimientos Serie de parablas sobre vida y
+triste	伤心	Sentimientos Serie de parablas sobre vida y
+solo	寂寞	Sentimientos Serie de parablas sobre vida y
+vacilar	犹豫	Sentimientos Serie de parablas sobre vida y
+sentirse	伤感	Sentimientos Serie de parablas sobre vida y
+tacaño	小气	Sentimientos Serie de parablas sobre vida y
+paciencia	耐心	Sentimientos Serie de parablas sobre vida y
+dar que pensar	耐人寻味	Sentimientos Serie de parablas sobre vida y
+absorto	专心	Sentimientos Serie de parablas sobre vida y
+arrepentirse	后悔	Sentimientos Serie de parablas sobre vida y
+atento	亲切  专注	Sentimientos Serie de parablas sobre vida y
+orgulloso	骄傲	Sentimientos Serie de parablas sobre vida y
+arrogante	狂妄	Sentimientos Serie de parablas sobre vida y
+avergonzarse	惭愧	Sentimientos Serie de parablas sobre vida y
+bravatas	狂言	Sentimientos Serie de parablas sobre vida y
+fracaso	失败	Sentimientos Serie de parablas sobre vida y
+revés	挫折	Sentimientos Serie de parablas sobre vida y
+alegre	喜悦	Sentimientos Serie de parablas sobre vida y
+puro	纯洁	Sentimientos Serie de parablas sobre vida y
+acendrado	纯洁	Sentimientos Serie de parablas sobre vida y
+honrado	诚实	Sentimientos Serie de parablas sobre vida y
+puro	纯真	Sentimientos Serie de parablas sobre vida y
+franco	坦率	Sentimientos Serie de parablas sobre vida y
+rápido	灵活	Sentimientos Serie de parablas sobre vida y
+lento	迟钝	Sentimientos Serie de parablas sobre vida y
+audaz	胆大	Sentimientos Serie de parablas sobre vida y
+atrevido	胆大	Sentimientos Serie de parablas sobre vida y
+tímido	胆小	Sentimientos Serie de parablas sobre vida y
+mostrar solicitud por	体贴	Sentimientos Serie de parablas sobre vida y
+bondadoso	善良	Sentimientos Serie de parablas sobre vida y
+valiente	勇敢	Sentimientos Serie de parablas sobre vida y
+esmerado	细心	Sentimientos Serie de parablas sobre vida y
+virtuosa	贤惠、贤淑	Sentimientos Serie de parablas sobre vida y
+admirar	赞赏	Sentimientos Serie de parablas sobre vida y
+atractivo	魅力	Sentimientos Serie de parablas sobre vida y
+lujoso	奢侈	Sentimientos Serie de parablas sobre vida y
+rubor	害羞	Sentimientos Serie de parablas sobre vida y
+tranquilo	坦然	Sentimientos Serie de parablas sobre vida y
+implacable	不能平息的	Sentimientos Serie de parablas sobre vida y
+tímidez	胆怯	Sentimientos Serie de parablas sobre vida y
+Vida	2、生活	Sentimientos Serie de parablas sobre vida y
+vida	生活	Sentimientos Serie de parablas sobre vida y
+vida	寿命	Sentimientos Serie de parablas sobre vida y
+desgracia	不幸	Sentimientos Serie de parablas sobre vida y
+señar con	梦想	Sentimientos Serie de parablas sobre vida y
+ideal	理想	Sentimientos Serie de parablas sobre vida y
+arrepentirse	后悔	Sentimientos Serie de parablas sobre vida y
+lamentar	遗憾	Sentimientos Serie de parablas sobre vida y
+lástima	可惜	Sentimientos Serie de parablas sobre vida y
+resentido	不满	Sentimientos Serie de parablas sobre vida y
+aburrido	无聊	Sentimientos Serie de parablas sobre vida y
+impacientarse	着急	Sentimientos Serie de parablas sobre vida y
+aturdido	慌张	Sentimientos Serie de parablas sobre vida y
+entusiasmarse	兴奋	Sentimientos Serie de parablas sobre vida y
+admirar	佩服	Sentimientos Serie de parablas sobre vida y
+honrar	尊敬	Sentimientos Serie de parablas sobre vida y
+agradecer	感谢	Sentimientos Serie de parablas sobre vida y
+repugnante	可憎	Sentimientos Serie de parablas sobre vida y
+nervioso	紧张	Sentimientos Serie de parablas sobre vida y
+simpatizar con	同情	Sentimientos Serie de parablas sobre vida y
+pobre	可怜	Sentimientos Serie de parablas sobre vida y
+hacer examen de conciencia	反省	Sentimientos Serie de parablas sobre vida y
+vida	人生	Sentimientos Serie de parablas sobre vida y
+cualidad moral	人品	Sentimientos Serie de parablas sobre vida y
+medios de vida	生计	Sentimientos Serie de parablas sobre vida y
+preocuparse	担心	Sentimientos Serie de parablas sobre vida y
+perspectiva	前途	Sentimientos Serie de parablas sobre vida y
+reputación	名誉	Sentimientos Serie de parablas sobre vida y
+decepcionado	失望	Sentimientos Serie de parablas sobre vida y
+orgullo	自大	Sentimientos Serie de parablas sobre vida y
+vacilar	踌躇	Sentimientos Serie de parablas sobre vida y
+dudar	怀疑	Sentimientos Serie de parablas sobre vida y
+reputación	名气	Sentimientos Serie de parablas sobre vida y
+reprochar	责备	Sentimientos Serie de parablas sobre vida y
+perder la cabeza	发昏	Sentimientos Serie de parablas sobre vida y
+culpar	责怪	Sentimientos Serie de parablas sobre vida y
+resentido	不满	Sentimientos Serie de parablas sobre vida y
+envidiar	羡慕	Sentimientos Serie de parablas sobre vida y
+preocuparse	操心	Sentimientos Serie de parablas sobre vida y
+preocupado	烦恼	Sentimientos Serie de parablas sobre vida y
+presagio	预兆	Sentimientos Serie de parablas sobre vida y
+melancólico	郁闷	Sentimientos Serie de parablas sobre vida y
+formación	素养	Sentimientos Serie de parablas sobre vida y
+calidad	素质	Sentimientos Serie de parablas sobre vida y
+conmoverse	感动	Sentimientos Serie de parablas sobre vida y
+paciencia	忍耐	Sentimientos Serie de parablas sobre vida y
+estar reconocido	感激	Sentimientos Serie de parablas sobre vida y
+vergonzoso	害臊	Sentimientos Serie de parablas sobre vida y
+vago	游手好闲，闲荡，含糊	de parablas Sentimientos Serie sobre vida y
+vergonzoso	含羞	Sentimientos Serie de parablas sobre vida y
+tímido	腼腆	Sentimientos Serie de parablas sobre vida y
+negligente	马虎	Sentimientos Serie de parablas sobre vida y
+negligente	粗心	Sentimientos Serie de parablas sobre vida y
+amigo	朋友	Sentimientos Serie de parablas sobre vida y
+edad	时期、年龄	Sentimientos Serie de parablas sobre vida y
+Enamoramiento y matrimonio	3、恋爱、婚姻	Sentimientos Serie de parablas sobre vida y
+amor	爱情	Sentimientos Serie de parablas sobre vida y
+adorar	爱慕	Sentimientos Serie de parablas sobre vida y
+novio	朋友	Sentimientos Serie de parablas sobre vida y
+persona de otro sexo	异性	Sentimientos Serie de parablas sobre vida y
+cortejar	求爱	Sentimientos Serie de parablas sobre vida y
+enamorarse	恋爱	Sentimientos Serie de parablas sobre vida y
+canción amorosa	情歌	Sentimientos Serie de parablas sobre vida y
+enamorado	情人	Sentimientos Serie de parablas sobre vida y
+carta amatoria	情书	Sentimientos Serie de parablas sobre vida y
+enanmorados	情侣	Sentimientos Serie de parablas sobre vida y
+matrimonio	婚姻	Sentimientos Serie de parablas sobre vida y
+cita	约会	Sentimientos Serie de parablas sobre vida y
+camaradería	同志关系	de parablas Sentimientos Serie sobre vida y
+abrazar	拥抱	Sentimientos Serie de parablas sobre vida y
+rival en amor	情敌	Sentimientos Serie de parablas sobre vida y
+separarse	分手	Sentimientos Serie de parablas sobre vida y
+parir	分娩	Sentimientos Serie de parablas sobre vida y
+amarse	相爱	Sentimientos Serie de parablas sobre vida y
+pedir la mano	求婚	Sentimientos Serie de parablas sobre vida y
+boda	婚礼	Sentimientos Serie de parablas sobre vida y
+contraer matrimonio	结婚	Sentimientos Serie de parablas sobre vida y
+corresponderse	相爱	Sentimientos Serie de parablas sobre vida y
+novio	新郎	Sentimientos Serie de parablas sobre vida y
+recién casada	新娘	Sentimientos Serie de parablas sobre vida y
+recién casado	新婚	Sentimientos Serie de parablas sobre vida y
+dote	嫁妆	Sentimientos Serie de parablas sobre vida y
+invitación	请帖	Sentimientos Serie de parablas sobre vida y
+soltero	未婚	Sentimientos Serie de parablas sobre vida y
+cámara nupcial	新房	Sentimientos Serie de parablas sobre vida y
+cariñoso	亲昵	Sentimientos Serie de parablas sobre vida y
+divorciarse	离婚	Sentimientos Serie de parablas sobre vida y
+consuegros	亲家	Sentimientos Serie de parablas sobre vida y
+hogar paterno de una mujer casada	娘家	Sentimientos Serie de parablas sobre vida y
+familia del marido	婆家	Sentimientos Serie de parablas sobre vida y
+estar casado	已婚	Sentimientos Serie de parablas sobre vida y
+sexo	性爱	Sentimientos Serie de parablas sobre vida y
+criar y educar	养育	Sentimientos Serie de parablas sobre vida y
+estar encinta	妊娠	Sentimientos Serie de parablas sobre vida y
+mujer encinta	孕妇	Sentimientos Serie de parablas sobre vida y
+contracepción	避孕	Sentimientos Serie de parablas sobre vida y
+separarse	分居	Sentimientos Serie de parablas sobre vida y
+volver a casarse	再婚	Sentimientos Serie de parablas sobre vida y
+ex esposa	前妻	Sentimientos Serie de parablas sobre vida y
+profesando amor	示爱	Sentimientos Serie de parablas sobre vida y
+enamorado	钟情	Sentimientos Serie de parablas sobre vida y
+Ritos funerarios	4、丧礼	Sentimientos Serie de parablas sobre vida y
+funeral	葬礼	Sentimientos Serie de parablas sobre vida y
+muerto	死人	Sentimientos Serie de parablas sobre vida y
+nota necrológica	讣告	Sentimientos Serie de parablas sobre vida y
+vestido de luto	丧服	Sentimientos Serie de parablas sobre vida y
+cielo	天堂	Sentimientos Serie de parablas sobre vida y
+demonio	鬼神	Sentimientos Serie de parablas sobre vida y
+infierno	地狱	Sentimientos Serie de parablas sobre vida y
+testamento	遗嘱	Sentimientos Serie de parablas sobre vida y
+herencia	遗产	Sentimientos Serie de parablas sobre vida y
+restos mortales	遗体	Sentimientos Serie de parablas sobre vida y
+cementerio	墓	Sentimientos Serie de parablas sobre vida y
+lápida sepulcral	墓碑	Sentimientos Serie de parablas sobre vida y
+cremación	火葬	Sentimientos Serie de parablas sobre vida y
+Figura	5、身材	Sentimientos Serie de parablas sobre vida y
+aparienciaaspecto	长相	Sentimientos Serie de parablas sobre vida y
+esbelto	苗条的	Sentimientos Serie de parablas sobre vida y
+grácil	苗条	Sentimientos Serie de parablas sobre vida y
+lleno	丰满	Sentimientos Serie de parablas sobre vida y
+gordo	胖	Sentimientos Serie de parablas sobre vida y
+descarnada	瘦	Sentimientos Serie de parablas sobre vida y
+salud	健康	Sentimientos Serie de parablas sobre vida y
+fuerte	结实	Sentimientos Serie de parablas sobre vida y
+robusto	结实	Sentimientos Serie de parablas sobre vida y
+bonita	漂亮	Sentimientos Serie de parablas sobre vida y
+guapa,o	漂亮	Sentimientos Serie de parablas sobre vida y
+arruga	皱纹	Sentimientos Serie de parablas sobre vida y
+feo,a	丑、难看	Sentimientos Serie de parablas sobre vida y
+guapo,a	俊	Sentimientos Serie de parablas sobre vida y
+bajo	低、矮	Sentimientos Serie de parablas sobre vida y
+alto	高	Sentimientos Serie de parablas sobre vida y
+Costurmbre y Fiestas	6、风俗、节日	Sentimientos Serie de parablas sobre vida y
+Fiesta del medio otoño	中秋节	Sentimientos Serie de parablas sobre vida y
+Noche Buena	平安夜	Sentimientos Serie de parablas sobre vida y
+Navidad	圣诞节	Sentimientos Serie de parablas sobre vida y
+Año Nuevo	新年	Sentimientos Serie de parablas sobre vida y
+Día Nacional	国庆节	Sentimientos Serie de parablas sobre vida y
+Semana Santa	复活节	Sentimientos Serie de parablas sobre vida y
+costumbre	风俗	Sentimientos Serie de parablas sobre vida y
+acostumbrarse a	习惯	Sentimientos Serie de parablas sobre vida y
+Día del Trabajo	劳动节	Sentimientos Serie de parablas sobre vida y
+fallas	法亚节	Sentimientos Serie de parablas sobre vida y
+carnaval	狂欢节	Sentimientos Serie de parablas sobre vida y
+Fiesta de los Faroles	元宵节、灯节	Sentimientos Serie de parablas sobre vida y
+fiesta	节日	Sentimientos Serie de parablas sobre vida y
+cumpleaños	生日	Sentimientos Serie de parablas sobre vida y
+felicitar el Año Nuevo	拜年	Sentimientos Serie de parablas sobre vida y
+Fiesta de Primavera	春节	Sentimientos Serie de parablas sobre vida y
+Fiesta del Bote del Dragón	端午节	Sentimientos Serie de parablas sobre vida y
+calzoncillo	内裤	
+imbécil	呆傻的，愚蠢的	
+ordinario	普通的，平庸的	
+sobrado	傲慢无礼，过多的	
+ladrón	偷窃的	
+prejuicioso	有成见的	
+cretino	呆小症	
+renegón	爱发牢骚的	

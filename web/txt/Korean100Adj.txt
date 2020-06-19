@@ -1,0 +1,100 @@
+행복하다	To be happy	
+기쁘다	To be glad, happy	
+화나다	To be angry	
+슬프다	To be sad	
+아프다	To be sick, painful	
+피곤하다	To be tired, exhausted	
+배가 고프다	To be hungry	
+목이 마르다	To be thirsty	
+졸리다	To be sleepy	
+걱정하다	To be worried	
+무섭다	To be scared	
+짜증나다	To be annoyed	
+놀라다	To be surprised	
+수줍다	To be shy	
+재미있다	To be interesting	
+재미없다	To not be interesting	
+심심하다	To be bored	
+지루하다	To be boring, dull	
+조용하다	To be quiet	
+시끄럽다	To be loud, noisy	
+뜨겁다	To be hot	
+따뜻하다	To be warm	
+차갑다	To be cold	
+시원하다	To be cool, refreshing	
+신선하다	To be fresh	
+아름답다	To be beautiful	
+예쁘다	To be pretty	
+귀엽다	To be cute	
+잘생기다	To be good looking	
+못생기다	To be ugly	
+크다	To be big	
+작다	To be small	
+많다	To be lots, many	
+적다	To be few, little	
+좁다	To be narrow	
+넓다	To be wide, broad	
+뚱뚱하다	To be fat, overweight	
+통통하다	To be chubby	
+날씬하다	To be slim, slender	
+깡마르다	To be skinny, scrawny	
+덥다	To be hot (regarding weather)	
+뜨겁다	To be hot (regarding touch, objects)	
+따뜻하다	To be warm (regarding both weather and objects)	
+춥다	To be cold (regarding weather)	
+차갑다	To be cold, icy, chilly (regarding touch, objects)	
+싸늘하다	To be chilly, frosty	
+습하다	To be damp, moist, humid	
+건조하다	To be dry	
+흐리다	To be cloudy	
+좋다	To be good, fine	
+어렵다	To be difficult	
+쉽다	To be easy	
+깨끗하다	To be clean	
+더럽다	To be dirty	
+빠르다	To be fast	
+천천하다	To be slow	
+느리다	To be slow	
+급하다	To be urgent	
+늦다	To be late	
+이르다	To be early	
+똑똑하다	To be smart, clever	
+멍청하다	To be stupid, foolish	
+싸다	To be cheap	
+비싸다	To be expensive	
+새롭다	To be new, fresh	
+오래되다	To be old (regarding objects)	
+튼튼하다	To be strong, sturdy	
+씩씩하다	To be brave	
+약하다	To be weak, feeble	
+건강하다	To be healthy	
+쓰다	To be bitter	
+짜다	To be salty	
+시큼하다	To be sour	
+맵다	To be spicy	
+달콤하다	To be sweet	
+기름지다	To be fatty, greasy, oily	
+맛있다	To be delicious, tasty	
+맛없다	To be not tasty	
+가득하다	To be full, crammed	
+비어 있다	To be empty	
+나쁘다	To be bad, poor	
+딱딱하다	To be hard, stiff	
+뾰족하다	To be sharp, pointed	
+부드럽다	To be soft	
+말랑하다	To be soft, tender, ripe	
+촉촉하다	To be moist	
+축축하다	To be damp, clammy, wet	
+젖다	To get wet, damp	
+건조하다	To be dry, arid	
+미끄럽다	To be slippery	
+편하다	To be comfortable	
+불편하다	To be uncomfortable	
+괜찮다	To be alright, ok	
+이상하다	To be weird, strange	
+복잡하다	To be jammed, crowded	
+편리하다	To be convenient	
+다르다	To be different	
+같다	To be the same	
+착하다	To be good-natured, nice	
+비열하다	To be mean, nasty	
