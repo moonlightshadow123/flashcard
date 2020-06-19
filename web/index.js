@@ -6,6 +6,7 @@ var $input = $("#input");
 var $searchBtn = $("#searchBtn");
 var $randomBtn = $("#randomBtn");
 var $resetBtn = $("#resetBtn");
+var $nextBtn = $("#nextBtn");
 var $voice = $(".voice");
 
 var $listContainer = $("#listContainer");
@@ -20,6 +21,7 @@ $(".list_temp").remove();
 
 var file_name = "csv/Korean Grammar Sentences by Evita.csv";
 var start_from = 1;
+var cur_idx = 0;
 var num = 20;
 var vars;
 
@@ -122,6 +124,7 @@ function genList(thedata){
 }
 
 function genDetail(idx){
+	cur_idx = idx;
 	var item = data[idx];
 	var word = item[1];
 	tts(word);
@@ -163,6 +166,14 @@ function search(string){
 	//doSimpbar();
 }
 
+function getNextIdx(){
+	var $ele = $("div[data-idx=" + cur_idx.toString() + "]").next();
+	if(!$ele.length){ // if there's no  cur_idx div.
+		$ele = $("div[data-idx]").first();
+	}
+	return $ele.attr("data-idx");
+}
+
 function addListener(){
 	$searchBtn.click(function(){
 		var val = $input.val();
@@ -177,6 +188,11 @@ function addListener(){
 		var idx = Math.floor(Math.random() * len);
 		var item = curData[idx]
 		genDetail(item[0]); 
+	});
+	$nextBtn.click(function(){
+		var idx = getNextIdx();
+		//var item = curData[idx];
+		genDetail(idx);
 	});
 	$listDiv.on("click", ".list_temp", function(){
 		genDetail($(this).attr("data-idx"));
