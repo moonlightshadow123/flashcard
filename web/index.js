@@ -1,5 +1,6 @@
 var $detail = $("#detail");
 var $word = $("#word");
+var $idx = $("#idx");
 
 var $flag = $("#flag");
 var $input = $("#input");
@@ -7,6 +8,7 @@ var $searchBtn = $("#searchBtn");
 var $randomBtn = $("#randomBtn");
 var $resetBtn = $("#resetBtn");
 var $nextBtn = $("#nextBtn");
+var $prevBtn = $("#prevBtn");
 var $voice = $(".voice");
 
 var $listContainer = $("#listContainer");
@@ -22,6 +24,7 @@ $(".list_temp").remove();
 var file_name = "csv/Korean Grammar Sentences by Evita.csv";
 var start_from = 1;
 var cur_idx = 0;
+var voc_idx = 0;
 var num = 20;
 var vars;
 
@@ -125,9 +128,11 @@ function genList(thedata){
 
 function genDetail(idx){
 	cur_idx = idx;
+	voc_idx = 0;
 	var item = data[idx];
 	var word = item[1];
 	tts(word);
+	$idx.html(idx);
 	$word.html(word);
 	$detail.children().remove();
 	header.forEach(function(ele, h_idx){
@@ -174,38 +179,115 @@ function getNextIdx(){
 	return $ele.attr("data-idx");
 }
 
+function getPrevIdx(){
+	var $ele = $("div[data-idx=" + cur_idx.toString() + "]").prev();
+	if(!$ele.length){ // if there's no  cur_idx div.
+		$ele = $("div[data-idx]").first();
+	}
+	return $ele.attr("data-idx");
+}
+
+function nextClick(){
+	console.log("next");
+	var idx = getNextIdx();
+	//var item = curData[idx];
+	genDetail(idx);
+}
+
+function prevClick(){
+	console.log("prev");
+	var idx = getPrevIdx();
+	//var item = curData[idx];
+	genDetail(idx);
+}
+
+function randomClick(){
+	var len = curData.length;
+	var idx = Math.floor(Math.random() * len);
+	var item = curData[idx]
+	genDetail(item[0]); 
+}
+
+function searchClick(){
+	var val = $input.val();
+	search(val);
+	$input.val("");
+	$input.blur();
+}
+
+function resetClick(){
+	genList(sliceData);
+}
+
+function voiceClick($ele){
+	if($ele.length == 0){ return;}
+	var word = $ele.prev().text();
+	tts(word);
+}
+
 function addListener(){
 	$searchBtn.click(function(){
-		var val = $input.val();
-		search(val);
+		searchClick();
 	});
+
 	$resetBtn.click(function(){
-		genList(sliceData);
-		//doMansry()
+		resetClick();
 	});
+
 	$randomBtn.click(function(){
-		var len = curData.length;
-		var idx = Math.floor(Math.random() * len);
-		var item = curData[idx]
-		genDetail(item[0]); 
+		randomClick()
 	});
+
+	$prevBtn.click(function(){
+		prevClick();
+	});
+
 	$nextBtn.click(function(){
-		var idx = getNextIdx();
-		//var item = curData[idx];
-		genDetail(idx);
+		nextClick();
 	});
+
 	$listDiv.on("click", ".list_temp", function(){
 		genDetail($(this).attr("data-idx"));
 	});
 	$detailContainer.on("click", ".voice", function(){
-		var word = $(this).prev().text();
-		tts(word);
+		voiceClick($(this));
 	});
 }	
+
+function keyBind(){
+	$(document).keyup(function(e){
+		if($input.is(":focus")){
+			if(e.keyCode == "13"){ // enter
+				searchClick();
+			}else if(e.keyCode == "27"){ // escape
+				$input.blur();
+			}
+			//return;			
+		}else{
+			if(e.keyCode == "39"){// right
+				nextClick();
+			}else if(e.keyCode == "37"){// left
+				prevClick();
+			}else if(e.keyCode == "38"){// up
+				voiceClick($word.next());
+			}else if(e.keyCode == "40"){ // down
+				voiceClick($detail.find(".voice:visible:eq("+voc_idx.toString()+")"));
+				voc_idx += 1;
+			}else if(e.keyCode == "13"){ // enter
+				randomClick();
+			}else if(e.keyCode == "27"){ // escape
+				$input.focus();
+			}else if(e.keyCode == "17"){ // ctrl
+				resetClick();
+			}
+		}
+	});
+}
 
 $(function(){
 	getUrlVars();
 	changeTitle();
+	keyBind();
 	$.get(file_name, function(content){
 		Papa.parse(content, {
 			complete: function(results) {
@@ -217,7 +299,7 @@ $(function(){
 			}
 		});
 	});
-	
+
     /*
     grid.on( 'layoutComplete', function(){
     	alert("hello");
