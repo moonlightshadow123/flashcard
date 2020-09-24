@@ -22,6 +22,7 @@ var $list_temp = $(".list_temp").clone();
 $(".list_temp").remove();
 
 var file_name = "csv/Korean Grammar Sentences by Evita.csv";
+var file_length = 0;
 var start_from = 1;
 var cur_idx = 0;
 var voc_idx = 0;
@@ -69,6 +70,10 @@ function getUrlVars() {
     }
     if("lang" in vars){
     	lang = vars["lang"];
+    }
+    if("length" in vars){
+    	file_length = parseInt(vars["length"]);
+    	$("#fileLength").html(file_length.toString());
     }
     //return vars;
 }
