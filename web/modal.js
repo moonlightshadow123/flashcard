@@ -90,7 +90,7 @@ function getValue($input, dflt){
 
 function openUrl(url){
   console.log(url);
-   window.open(url, "_parent");
+   window.open(url, "_self");
   //setTimeOut(()=>{ window.open(url, "_parent");}, 2000);
 }
 
