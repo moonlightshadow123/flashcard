@@ -1,0 +1,68 @@
+[
+    {
+        "name": "ES2000.es.csv",
+        "lang": "es",
+        "url": "/csv/ES2000.es.csv",
+        "length": 2568
+    },
+    {
+        "name": "French5k.fr.csv",
+        "lang": "fr",
+        "url": "/csv/French5k.fr.csv",
+        "length": 4998
+    },
+    {
+        "name": "JapaneseCore2000.ja.csv",
+        "lang": "ja",
+        "url": "/csv/JapaneseCore2000.ja.csv",
+        "length": 2007
+    },
+    {
+        "name": "JapaneseCore2k.ja.csv",
+        "lang": "ja",
+        "url": "/csv/JapaneseCore2k.ja.csv",
+        "length": 2007
+    },
+    {
+        "name": "JapaneseCore5k.ja.csv",
+        "lang": "ja",
+        "url": "/csv/JapaneseCore5k.ja.csv",
+        "length": 4994
+    },
+    {
+        "name": "Korean100Adj.ko.csv",
+        "lang": "ko",
+        "url": "/csv/Korean100Adj.ko.csv",
+        "length": 100
+    },
+    {
+        "name": "Korean100Verbs.ko.csv",
+        "lang": "ko",
+        "url": "/csv/Korean100Verbs.ko.csv",
+        "length": 100
+    },
+    {
+        "name": "KoreanGrammarSentences.ko.csv",
+        "lang": "ko",
+        "url": "/csv/KoreanGrammarSentences.ko.csv",
+        "length": 2321
+    },
+    {
+        "name": "KoreanVocabulary.ko.csv",
+        "lang": "ko",
+        "url": "/csv/KoreanVocabulary.ko.csv",
+        "length": 5808
+    },
+    {
+        "name": "SentenceOf575SpanishVerbs.es.csv",
+        "lang": "es",
+        "url": "/csv/SentenceOf575SpanishVerbs.es.csv",
+        "length": 3025
+    },
+    {
+        "name": "Spanish5k.es.csv",
+        "lang": "es",
+        "url": "/csv/Spanish5k.es.csv",
+        "length": 5000
+    }
+]
